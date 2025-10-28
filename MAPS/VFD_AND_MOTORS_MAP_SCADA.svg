@@ -1,39 +1,41 @@
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="1920" height="1070" viewBox="1 -20 1890 1070" version="1.1" id="VFD_AND_MOTORS_MAP_SCADA" sodipodi:docname="DRAFT.svg" inkscape:export-filename="DRAFT.png" inkscape:export-xdpi="96" inkscape:export-ydpi="96" inkscape:version="1.4.2 (f4327f4, 2025-05-13)" xml:space="preserve">
+<svg id="svg_map" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="1920" height="1070" viewBox="10 -10 1890 1070" version="1.1" id="VFD_AND_MOTORS_MAP_SCADA" sodipodi:docname="DRAFT.svg" inkscape:export-filename="DRAFT.png" inkscape:export-xdpi="96" inkscape:export-ydpi="96" inkscape:version="1.4.2 (f4327f4, 2025-05-13)" xml:space="preserve">
 	<sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="1.1" inkscape:cx="579" inkscape:cy="632" inkscape:window-width="1920" inkscape:window-height="1080" inkscape:window-maximized="1" inkscape:current-layer="machine-238" inkscape:export-bgcolor="#ffffffff" inkscape:window-x="0" inkscape:window-y="0">
 		<inkscape:page x="0" y="0" width="1920" height="1080" id="page2" margin="0" bleed="0" />
 	</sodipodi:namedview>
 	<g transform="matrix(0.7414952,0,0,0.75188776,126.78028,933.362)" style="stroke:#000000;stroke-width:1.98048;stroke-dasharray:none;stroke-opacity:1" id="SMALLBATCH">
+		<rect style="fill:var(--secondary-dark);fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="356.57822" height="1032.9266" x="13.474996" y="25.150339" transform="matrix(1.3486264,0,0,1.3299857,-181.67368,-1268.8228)" />
+		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.98048;stroke-dasharray:none;stroke-opacity:1" width="229.41606" height="33.970726" x="-37.763565" y="101.7739" />
 		<text xml:space="preserve" style="font-size:20px;fill:none;stroke:#FFD700;stroke-width:1.98048;stroke-dasharray:none;stroke-opacity:1" x="-22.091496" y="101.15632">
 			<tspan x="-22.091496" y="101.15632" />
 			<tspan x="-22.091496" y="127.82295"> SMALL BATCH AREA</tspan>
 		</text>
-		<rect style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="356.57822" height="1032.9266" x="13.474996" y="25.150339" transform="matrix(1.3486264,0,0,1.3299857,-181.67368,-1268.8228)" />
-		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.98048;stroke-dasharray:none;stroke-opacity:1" width="229.41606" height="33.970726" x="-37.763565" y="101.7739" />
-	</g>
+		</g>
 	<g id="NEWPLATFORM" section_name="NEW PLATFORM" section_total_vfds="12" section_unique_models="4" transform="translate(-7.9298824,-22.650304)">
+		<rect style="fill:var(--secondary-dark);fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="487.49387" height="521.16266" x="379.52591" y="26.366648" />
+		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.49716;stroke-dasharray:none;stroke-opacity:1" width="174.49281" height="25.523785" x="506.85721" y="519.60706" />
 		<g id="2ND-FLOOR">
+			<rect style="fill:var(--secondary-dark);fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="344.56152" height="482.98654" x="391.00391" y="35.357353" />
+			<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.28006;stroke-dasharray:none;stroke-opacity:1" width="126.48088" height="25.740808" x="607.99347" y="491.60461" />
 			<text xml:space="preserve" style="font-size:14.9335px;fill:none;stroke:#FFD700;stroke-width:1.27877;stroke-dasharray:none;stroke-opacity:1" x="633.23566" y="486.62515" transform="scale(0.99306497,1.0069835)">
 				<tspan x="633.23566" y="486.62515" style="stroke-width:1.47877" />
 				<tspan x="633.23566" y="506.53641" style="stroke-width:1.47877"> 2nd FLOOR</tspan>
 			</text>
-			<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.28006;stroke-dasharray:none;stroke-opacity:1" width="126.48088" height="25.740808" x="607.99347" y="491.60461" />
-			<rect style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="344.56152" height="482.98654" x="391.00391" y="35.357353" />
-		</g>
+			</g>
 		<text xml:space="preserve" style="font-size:14.9335px;fill:none;stroke:#FFD700;stroke-width:1.27877;stroke-dasharray:none;stroke-opacity:1" x="514.97729" y="534.10565" transform="scale(0.99306497,1.0069835)">
-			<tspan x="514.97729" y="534.10565" style="stroke-width:1.47877"> NEW PLATFORM AREA</tspan>
+		<tspan x="514.97729" y="534.10565" style="stroke-width:1.47877"> NEW PLATFORM AREA</tspan>
 		</text>
-		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.49716;stroke-dasharray:none;stroke-opacity:1" width="174.49281" height="25.523785" x="506.85721" y="519.60706" />
-		<rect style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="487.49387" height="521.16266" x="379.52591" y="26.366648" />
 		<g id="3RD-FLOOR">
+			<rect style="fill:var(--secondary-dark);fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="109.60237" height="484.13446" x="747.39825" y="34.48362" />
+			<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.28142;stroke-dasharray:none;stroke-opacity:1" width="105.93124" height="29.572884" x="749.23383" y="489.6019" />
 			<text xml:space="preserve" style="font-size:14.9493px;fill:none;stroke:#FFD700;stroke-width:1.48034;stroke-dasharray:none;stroke-opacity:1" x="748.2569" y="498.4671" transform="scale(1.015859,0.9843886)">
 				<tspan x="748.2569" y="498.4671" style="stroke-width:1.48034" />
 				<tspan x="748.2569" y="518.39948" style="stroke-width:1.48034"> 3rd FLOOR</tspan>
 			</text>
-			<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.28142;stroke-dasharray:none;stroke-opacity:1" width="105.93124" height="29.572884" x="749.23383" y="489.6019" />
-			<rect style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="109.60237" height="484.13446" x="747.39825" y="34.48362" />
 		</g>
 	</g>
 	<g id="PUTTYPLATFORM" transform="translate(-7.9298824,-22.650304)">
+		<rect style="fill:var(--secondary-dark);fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="127.071" height="520.29382" x="878.0835" y="26.483273" />
+		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.67629;stroke-dasharray:none;stroke-opacity:1" width="127.04109" height="42.197704" x="876.34766" y="505.21222" />
 		<text xml:space="preserve" style="font-size:14.9493px;fill:none;stroke:#FFD700;stroke-width:1.48034;stroke-dasharray:none;stroke-opacity:1" x="903.17389" y="511.0661" transform="scale(1.015859,0.9843886)">
 			<tspan x="903.17389" y="511.0661" style="stroke-width:1.48034" />
 			<tspan x="903.17389" y="530.99847" style="stroke-width:1.48034">PUTTY</tspan>
@@ -42,64 +44,64 @@
 			<tspan x="887.18726" y="529.07788" style="stroke-width:1.48034" />
 			<tspan x="887.18726" y="549.01019" style="stroke-width:1.48034">PLATFORM</tspan>
 		</text>
-		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.67629;stroke-dasharray:none;stroke-opacity:1" width="127.04109" height="42.197704" x="876.34766" y="505.21222" />
-		<rect style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="127.071" height="520.29382" x="878.0835" y="26.483273" />
 	</g>
 	<g id="MEDIUMBATCH" section_name="MEDIUM BATCH" section_total_vfds="25" section_unique_models="6" transform="translate(-7.9298824,-22.650304)">
+		<rect style="fill:var(--secondary-dark);fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="879.23627" height="521.37366" x="1016.5509" y="25.984074" />
+		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.47877;stroke-dasharray:none;stroke-opacity:1" width="170.1109" height="25.542173" x="1670.0746" y="25.88641" />
 		<text xml:space="preserve" style="font-size:14.9335px;fill:none;stroke:#FFD700;stroke-width:1.27877;stroke-dasharray:none;stroke-opacity:1" x="1690.3771" y="25.245752" transform="scale(0.99306497,1.0069835)">
 			<tspan x="1690.3771" y="45.157017" style="stroke-width:1.47877"> MEDIUM BATCH AREA</tspan>
 		</text>
-		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.47877;stroke-dasharray:none;stroke-opacity:1" width="170.1109" height="25.542173" x="1670.0746" y="25.88641" />
-		<rect style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="879.23627" height="521.37366" x="1016.5509" y="25.984074" />
 		<g>
 			<text xml:space="preserve" style="font-size:14.7877px;fill:none;stroke:#FFD700;stroke-width:1.27877;stroke-dasharray:none;stroke-opacity:1" x="1817.9062" y="210.47591" transform="scale(0.98262898,1.0176781)">
 				<tspan x="1817.9062" y="210.47591" style="stroke-width:1.47877"> 2nd FLOOR</tspan>
 			</text>
 			<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.47877;stroke-dasharray:none;stroke-opacity:1" width="113.62041" height="25.892384" x="1770.8202" y="195.38551" />
-			<rect style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="787.453" height="177.09464" x="1096.6333" y="195.48276" />
+			<rect style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="787.453" height="177.09464" x="1096.6333" y="195.48276" />
 		</g>
 	</g>
 	<g id="OLDPLATFORM" section_name="OLD PLATFORM" section_total_vfds="12" section_unique_models="3" transform="translate(-7.9298824,-22.650304)">
+		<rect style="fill:var(--secondary-dark);fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="271.69452" height="500.55704" x="1624.7252" y="558.45776" />
+		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.5774;stroke-dasharray:none;stroke-opacity:1" width="173.49475" height="25.548803" x="1626.2971" y="1032.6929" />
 		<text xml:space="preserve" style="font-size:14.7877px;fill:none;stroke:#FFD700;stroke-width:1.27877;stroke-dasharray:none;stroke-opacity:1" x="1663.1752" y="1033.3352" transform="scale(0.98262898,1.0176781)">
 			<tspan x="1663.1752" y="1033.3352" style="stroke-width:1.47877"> OLD PLATFORM AREA</tspan>
 		</text>
-		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.5774;stroke-dasharray:none;stroke-opacity:1" width="173.49475" height="25.548803" x="1626.2971" y="1032.6929" />
-		<rect style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="271.69452" height="500.55704" x="1624.7252" y="558.45776" />
 	</g>
 	<g id="MILLING" transform="translate(-7.9298824,-22.650304)">
-		<rect style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="383.44797" height="499.88419" x="1226.7507" y="559.35345" />
+		<rect style="fill:var(--secondary-dark);fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="383.44797" height="499.88419" x="1226.7507" y="559.35345" />
+		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.34456;stroke-dasharray:none;stroke-opacity:1" width="124.89443" height="25.78578" x="1356.0275" y="1032.3447" />
 		<text xml:space="preserve" style="font-size:14.7877px;fill:none;stroke:#FFD700;stroke-width:1.27877;stroke-dasharray:none;stroke-opacity:1" x="1388.1332" y="1033.1096" transform="scale(0.98262898,1.0176781)">
 			<tspan x="1388.1332" y="1033.1096" style="stroke-width:1.47877"> MILLING AREA</tspan>
 		</text>
-		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.34456;stroke-dasharray:none;stroke-opacity:1" width="124.89443" height="25.78578" x="1356.0275" y="1032.3447" />
 	</g>
 	<g transform="matrix(0.7414952,0,0,0.75188776,464.99181,460.67637)" style="stroke:#000000;stroke-width:1.98048;stroke-dasharray:none;stroke-opacity:1" id="EEROOM-1">
-		<rect style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="335.58963" height="498.14938" x="380.07584" y="559.45526" transform="matrix(1.3486264,0,0,1.3299857,-637.79467,-642.81758)" />
+		<rect style="fill:var(--secondary-dark);fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="335.58963" height="498.14938" x="380.07584" y="559.45526" transform="matrix(1.3486264,0,0,1.3299857,-637.79467,-642.81758)" />
+		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.71435;stroke-dasharray:none;stroke-opacity:1" width="170.57545" height="34.234909" x="21.209206" y="101.64181" />
 		<text xml:space="preserve" style="font-size:20px;fill:none;stroke:#FFD700;stroke-width:1.98048;stroke-dasharray:none;stroke-opacity:1" x="49.328964" y="99.538918">
 			<tspan x="49.328964" y="99.538918" />
 			<tspan x="49.328964" y="126.20555"> EE ROOM 1</tspan>
 		</text>
-		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.71435;stroke-dasharray:none;stroke-opacity:1" width="170.57545" height="34.234909" x="21.209206" y="101.64181" />
 	</g>
 	<g id="EEROOM-2" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(0,2)">
+			<rect style="fill:var(--secondary-dark);fill-opacity:1;stroke:#000000;stroke-width:5.13603;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="489.60175" height="199.40869" x="725.83203" y="559.42145" />			
 			<text xml:space="preserve" style="font-size:14.9335px;fill:none;stroke:#FFD700;stroke-width:1.27877;stroke-dasharray:none;stroke-opacity:1" x="1115.2191" y="722.9278" transform="scale(0.99306494,1.0069835)">
 				<tspan x="1115.2191" y="722.9278" style="stroke-width:1.47877" />
 				<tspan x="1115.2191" y="742.83905" style="stroke-width:1.47877"> EE ROOM 2</tspan>
 			</text>
 			<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.28006;stroke-dasharray:none;stroke-opacity:1" width="126.48088" height="25.740808" x="1086.6344" y="729.5575" />
 		</g>
-		<rect style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5.13603;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="489.60175" height="199.40869" x="725.83203" y="559.42145" />
 	</g>
 	<g id="EEROOM-3" transform="translate(-7.9298824,-22.650304)">
+		<rect style="fill:var(--secondary-dark);fill-opacity:1;stroke:#000000;stroke-width:5.11122;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="338.32596" height="290.49033" x="726.42847" y="767.78113" />
+		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.28006;stroke-dasharray:none;stroke-opacity:1" width="126.48088" height="25.740808" x="838.013" y="767.84698" />
 		<text xml:space="preserve" style="font-size:14.9335px;fill:none;stroke:#FFD700;stroke-width:1.27877;stroke-dasharray:none;stroke-opacity:1" x="864.86145" y="760.95178" transform="scale(0.99306497,1.0069835)">
 			<tspan x="864.86145" y="760.95178" style="stroke-width:1.47877" />
 			<tspan x="864.86145" y="780.86304" style="stroke-width:1.47877"> EE ROOM 3</tspan>
 		</text>
-		<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.28006;stroke-dasharray:none;stroke-opacity:1" width="126.48088" height="25.740808" x="838.013" y="767.84698" />
-		<rect style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5.11122;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="338.32596" height="290.49033" x="726.42847" y="767.78113" />
+
 	</g>
 	<g id="EEROOM-4" transform="translate(-7.9298824,-22.650304)">
+				<rect style="fill:var(--secondary-dark);fill-opacity:1;stroke:#000000;stroke-width:4.9001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="137.62952" height="292.14456" x="1076.8306" y="767.16565" />
 		<g transform="matrix(0.7414952,0,0,0.75188776,1065.9974,954.79088)" style="stroke:#000000;stroke-width:1.98048;stroke-dasharray:none;stroke-opacity:1">
 			<text xml:space="preserve" style="font-size:20px;fill:none;stroke:#FFD700;stroke-width:1.98048;stroke-dasharray:none;stroke-opacity:1" x="49.328964" y="99.538918">
 				<tspan x="49.328964" y="99.538918" />
@@ -107,9 +109,8 @@
 			</text>
 			<rect style="fill:none;fill-opacity:0.285821;stroke:#000000;stroke-width:1.71435;stroke-dasharray:none;stroke-opacity:1" width="170.57545" height="34.234909" x="21.209206" y="101.64181" />
 		</g>
-		<rect style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:4.9001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" width="137.62952" height="292.14456" x="1076.8306" y="767.16565" />
 	</g>
-	<g class="pe-ps" id="PE-PS-241" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="2HP" voltage="" equipment_details="2 HP Drive Motor" vfd_brand_model="TECO A510" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1" id="PE-PS-241" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="2HP" voltage="" equipment_details="2 HP Drive Motor" vfd_brand_model="TECO A510" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-3507.6063,-882.69784)" class="vfd" id="vfd-241">
 			<g inkscape:label="Layer 1" id="layer1-80-4-7" transform="matrix(0.1511811,0,0,0.1511811,3529.192,1166.0865)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -189,7 +190,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-243" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="30 HP" voltage="" equipment_details="1HP Drive Motor (Fabricated)" vfd_brand_model="TECO A510s" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1" id="PE-PS-243" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="30 HP" voltage="" equipment_details="1HP Drive Motor (Fabricated)" vfd_brand_model="TECO A510s" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,156.00718,150.7637)" class="machine" id="machine-243">
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.19616;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="103.20519" x="-346.70676" y="431.17453" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.56953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="128.72618" x="-346.70676" y="399.65353" rx="18.897638" ry="18.897638" />
@@ -269,7 +270,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-203" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="13 HP" voltage="220VAC" equipment_details="5 HP 14Amp Drive Motor 1 HP 2.1Amp Lifter Motor" vfd_brand_model="VACON" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1" id="PE-PS-203" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="13 HP" voltage="220VAC" equipment_details="5 HP 14Amp Drive Motor 1 HP 2.1Amp Lifter Motor" vfd_brand_model="VACON" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,156.00718,317.1101)" class="machine" id="machine-203">
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.19616;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="103.20519" x="-346.70676" y="431.17453" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.56953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="128.72618" x="-346.70676" y="399.65353" rx="18.897638" ry="18.897638" />
@@ -352,7 +353,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-296" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="6 HP" voltage="220VAC" equipment_details="10 HP Drive Motor w/ Frequency Inveter 3 HP Hydraulic" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1" id="PE-PS-296" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="6 HP" voltage="220VAC" equipment_details="10 HP Drive Motor w/ Frequency Inveter 3 HP Hydraulic" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,156.00718,400.2833)" class="machine" id="machine-296">
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.19616;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="103.20519" x="-346.70676" y="431.17453" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.56953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="128.72618" x="-346.70676" y="399.65353" rx="18.897638" ry="18.897638" />
@@ -435,7 +436,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-249" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="18 HP" voltage="" equipment_details="10 HP Drive Motor (Frequency Inverter) 1HP Pump Motor" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1" id="PE-PS-249" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="18 HP" voltage="" equipment_details="10 HP Drive Motor (Frequency Inverter) 1HP Pump Motor" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,156.00718,483.4565)" class="machine" id="machine-249">
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.19616;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="103.20519" x="-346.70676" y="431.17453" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.56953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="128.72618" x="-346.70676" y="399.65353" rx="18.897638" ry="18.897638" />
@@ -518,7 +519,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-264" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="" equipment_details="Taiwan 20 HP DRIVE MOTOR 3 HP hydraulic pump motor" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1" id="PE-PS-264" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="" equipment_details="Taiwan 20 HP DRIVE MOTOR 3 HP hydraulic pump motor" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,156.00718,566.62971)" class="machine" id="machine-264">
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.19616;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="103.20519" x="-346.70676" y="431.17453" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.56953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="128.72618" x="-346.70676" y="399.65353" rx="18.897638" ry="18.897638" />
@@ -601,7 +602,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-209" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="30 HP" voltage="220VAC" equipment_details="10 HP 26A Main Motor with Inverter Taiwan" vfd_brand_model="FRENIC MEGA" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1" id="PE-PS-209" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="30 HP" voltage="220VAC" equipment_details="10 HP 26A Main Motor with Inverter Taiwan" vfd_brand_model="FRENIC MEGA" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,156.00718,649.80291)" class="machine" id="machine-209">
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.19616;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="103.20519" x="-346.70676" y="431.17453" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.56953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="128.72618" x="-346.70676" y="399.65353" rx="18.897638" ry="18.897638" />
@@ -684,7 +685,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-290" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="" voltage="" equipment_details="10 HP Drive Motor w/ Frequency Inveter 3 HP Hydraulic" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1" id="PE-PS-290" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="" voltage="" equipment_details="10 HP Drive Motor w/ Frequency Inveter 3 HP Hydraulic" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,156.00718,732.97611)" class="machine" id="machine-290">
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.19616;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="103.20519" x="-346.70676" y="431.17453" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.56953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="128.72618" x="-346.70676" y="399.65353" rx="18.897638" ry="18.897638" />
@@ -767,7 +768,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-291" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="30 HP" voltage="220VAC" equipment_details="10 HP Drive Motor w/ Frequency Inveter 3 HP Hydraulic" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1" id="PE-PS-291" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="30 HP" voltage="220VAC" equipment_details="10 HP Drive Motor w/ Frequency Inveter 3 HP Hydraulic" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,156.00718,816.14931)" class="machine" id="machine-291">
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.19616;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="103.20519" x="-346.70676" y="431.17453" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.56953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="128.72618" x="-346.70676" y="399.65353" rx="18.897638" ry="18.897638" />
@@ -850,7 +851,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-292" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="30 HP" voltage="220VAC" equipment_details="10 HP Drive Motor w/ Frequency Inveter 3 HP Hydraulic Motor 440V" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1" id="PE-PS-292" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="30 HP" voltage="220VAC" equipment_details="10 HP Drive Motor w/ Frequency Inveter 3 HP Hydraulic Motor 440V" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,156.00718,899.32251)" class="machine" id="machine-292">
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.19616;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="103.20519" x="-346.70676" y="431.17453" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.56953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="90.521805" height="128.72618" x="-346.70676" y="399.65353" rx="18.897638" ry="18.897638" />
@@ -933,7 +934,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-250" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="18 HP" voltage="" equipment_details="2HP (Fabricated) w/ freq inverter" vfd_brand_model="TEK DRIVE" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-250" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="18 HP" voltage="" equipment_details="2HP (Fabricated) w/ freq inverter" vfd_brand_model="TEK DRIVE" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2064.8622,-1397.1297)" class="machine" id="machine-250">
 			<g transform="matrix(0.15,0,0,0.15,2179.1451,1404.1197)" sodipodi:insensitive="true">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.28459;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="66.04126" height="23.729498" x="72.696037" y="407.88052" rx="3.7795277" ry="3.7795277" />
@@ -1036,7 +1037,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-244" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="43 HP" voltage="" equipment_details="1HP Drive Motor (Fabricated)" vfd_brand_model="D31-T2-IR5G/2R2P" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-244" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="43 HP" voltage="" equipment_details="1HP Drive Motor (Fabricated)" vfd_brand_model="D31-T2-IR5G/2R2P" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,114.28291,90.127)" class="machine" id="machine-244">
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:3.28459;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="66.04126" height="23.729498" x="72.696037" y="407.88052" rx="3.7795277" ry="3.7795277" />
 			<rect style="fill:#008000;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="193.23203" height="14.176979" x="9.1006546" y="665.43427" rx="3.7795269" ry="3.7795277" />
@@ -1137,7 +1138,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-208" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="220VAC" equipment_details="20 HP 50A Drive Motor with Inverter 3 HP 8.6A Hydraulic" vfd_brand_model="TECO A510" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1.5" id="PE-PS-208" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="220VAC" equipment_details="20 HP 50A Drive Motor with Inverter 3 HP 8.6A Hydraulic" vfd_brand_model="TECO A510" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-3244.762,-965.52579)" class="vfd" id="vfd-208">
 			<g inkscape:label="Layer 1" id="layer1-80-4-5" transform="matrix(0.1511811,0,0,0.1511811,3529.192,1166.0865)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -1220,7 +1221,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-204" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="33 HP" voltage="220VAC" equipment_details="15 HP 37Amp Drive Motor with Inverter 1 HP 3.5Amp Lifter" vfd_brand_model="FRENIC MEGA" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1.5" id="PE-PS-204" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="33 HP" voltage="220VAC" equipment_details="15 HP 37Amp Drive Motor with Inverter 1 HP 3.5Amp Lifter" vfd_brand_model="FRENIC MEGA" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,218.43951,312.25332)" class="machine" id="machine-204">
 			<g transform="matrix(-3.8105231,0,0,3.7794187,429.135,-13.110179)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:0.845651;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="23.950562" height="27.306374" x="6.4567566" y="26.269098" rx="5" ry="5" />
@@ -1298,15 +1299,15 @@
 				<rect style="fill:#00ff00;stroke:#000000;stroke-width:1.63383;stroke-dasharray:none" width="32.788933" height="18.118721" x="75.422379" y="51.187641" />
 				<ellipse style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.58879;stroke-linecap:round" cx="361.03558" cy="173.20923" rx="17.879429" ry="17.465475" />
 			</g>
-			<g transform="translate(287.03236,372.80562)">
-				<rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.929195;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="72.470802" height="11.770805" x="1.8645972" y="0.56459749" rx="1.9071265" ry="1.8108932" />
-				<text xml:space="preserve" style="font-weight:bolder;font-size:13px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-dasharray:none" x="38.099998" y="10.809375">
-					<tspan sodipodi:role="line" style="font-weight:bolder;font-size:12px;fill:#000000;stroke-width:5" x="38.099998" y="10.809375" class="label">      PE-PS-204</tspan>
+			<g transform="translate(3637.9625,1228.6818)">
+				<rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.929195;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="72.470802" height="11.770805" x="1.8645972" y="0.56459749" rx="1.9071265" ry="1.8108932" id="rect817" />
+				<text xml:space="preserve" style="font-weight:bolder;font-size:13px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-dasharray:none" x="38.099998" y="10.809375" id="text817">
+					<tspan sodipodi:role="line" style="font-weight:bolder;font-size:12px;fill:#000000;stroke-width:5" x="41.891853" y="10.809375" class="label" id="tspan817">        PE-PS-204</tspan>				
 				</text>
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-254" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="23 HP" voltage="" equipment_details="20 HP drive motor with Inverter 3 HP hydraulic pump motor" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1.5" id="PE-PS-254" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="23 HP" voltage="" equipment_details="20 HP drive motor with Inverter 3 HP hydraulic pump motor" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,218.43951,422.16844)" class="machine" id="machine-254">
 			<g transform="matrix(-3.8105231,0,0,3.7794187,429.135,-13.110179)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:0.845651;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="23.950562" height="27.306374" x="6.4567566" y="26.269098" rx="5" ry="5" />
@@ -1392,7 +1393,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-210" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="220VAC" equipment_details="10 HP 26A Main Motor with Inverter 3 HP 9.0A Hydraulic" vfd_brand_model="TECO A510" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1.5" id="PE-PS-210" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="220VAC" equipment_details="10 HP 26A Main Motor with Inverter 3 HP 9.0A Hydraulic" vfd_brand_model="TECO A510" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,218.43951,532.08356)" class="machine" id="machine-210">
 			<g transform="matrix(-3.8105231,0,0,3.7794187,429.135,-13.110179)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:0.845651;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="23.950562" height="27.306374" x="6.4567566" y="26.269098" rx="5" ry="5" />
@@ -1475,7 +1476,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-265" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="30 HP" voltage="" equipment_details="Taiwan 20 HP DRIVE MOTOR 3 HP hydraulic pump motor" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1.5" id="PE-PS-265" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="30 HP" voltage="" equipment_details="Taiwan 20 HP DRIVE MOTOR 3 HP hydraulic pump motor" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,218.43951,641.99868)" class="machine" id="machine-265">
 			<g transform="matrix(-3.8105231,0,0,3.7794187,429.135,-13.110179)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:0.845651;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="23.950562" height="27.306374" x="6.4567566" y="26.269098" rx="5" ry="5" />
@@ -1561,7 +1562,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-248" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="23 HP" voltage="" equipment_details="10 HP Drive Motor (Frequency Inverter) 1HP Pump Motor" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1.5" id="PE-PS-248" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="23 HP" voltage="" equipment_details="10 HP Drive Motor (Frequency Inverter) 1HP Pump Motor" vfd_brand_model="TDS V8" vfd_location="SMALL BATCH AREA" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,216.43951,751.9138)" class="machine" id="machine-248">
 			<g transform="matrix(-3.8105231,0,0,3.7794187,429.135,-13.110179)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:0.845651;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="23.950562" height="27.306374" x="6.4567566" y="26.269098" rx="5" ry="5" />
@@ -1647,7 +1648,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-274" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="33 HP" voltage="220VAC" equipment_details="30 HP DRIVE MOTOR" vfd_brand_model="TECO A510s" vfd_location="NEW PLATFORM" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-274" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="33 HP" voltage="220VAC" equipment_details="30 HP DRIVE MOTOR" vfd_brand_model="TECO A510s" vfd_location="NEW PLATFORM" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-3019.5209,-1121.2446)" class="vfd" id="vfd-274">
 			<g inkscape:label="Layer 1" id="layer1-1-0" transform="matrix(0.1511811,0,0,0.1511811,3419.2307,1166.0865)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -1753,7 +1754,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-273" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="33 HP" voltage="220VAC" equipment_details="30 HP Drive Motor w/ frequency Inverter 440V" vfd_brand_model="TECO A510s" vfd_location="NEW PLATFORM" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-273" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="33 HP" voltage="220VAC" equipment_details="30 HP Drive Motor w/ frequency Inverter 440V" vfd_brand_model="TECO A510s" vfd_location="NEW PLATFORM" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-3019.5209,-1043.7025)" class="vfd" id="vfd-273">
 			<g inkscape:label="Layer 1" id="layer1-1-3" transform="matrix(0.1511811,0,0,0.1511811,3419.2307,1166.0865)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -1859,7 +1860,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-261" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="" equipment_details="30 HP Drive Motor with inverter" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 3" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-261" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="" equipment_details="30 HP Drive Motor with inverter" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 3" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,660.60103,5.808068)" class="machine" id="machine-261">
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="504.12241" height="78.592567" x="-1165.1102" y="403.10132" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="121.98047" height="28.317125" x="-1028.2211" y="481.86887" rx="7.5590553" ry="7.5590553" />
@@ -1965,7 +1966,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-263" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="33 HP" voltage="" equipment_details="30 HP Drive Motor with inverter" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 3" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-263" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="33 HP" voltage="" equipment_details="30 HP Drive Motor with inverter" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 3" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,743.68583,6.2841201)" class="machine" id="machine-263">
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="504.12241" height="78.592567" x="-1165.1102" y="403.10132" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="121.98047" height="28.317125" x="-1028.2211" y="481.86887" rx="7.5590553" ry="7.5590553" />
@@ -2071,7 +2072,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-242" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="153 HP" voltage="440VAC" equipment_details="60 HP Drive Motor Explosion Proof" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1.7" id="PE-PS-242" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="153 HP" voltage="440VAC" equipment_details="60 HP Drive Motor Explosion Proof" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,1827.5971,565.24027)" class="machine" id="machine-242">
 			<g transform="matrix(-3.8105231,0,0,3.7794187,429.135,-13.110179)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:0.845651;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="23.950562" height="27.306374" x="6.4567566" y="26.269098" rx="5" ry="5" />
@@ -2154,7 +2155,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-240" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="11 HP" voltage="" equipment_details="40 HP Drive Motor" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1.7" id="PE-PS-240" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="11 HP" voltage="" equipment_details="40 HP Drive Motor" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,1827.5971,619.43466)" class="machine" id="machine-240">
 			<g transform="matrix(-3.8105231,0,0,3.7794187,429.135,-13.110179)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:0.845651;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="23.950562" height="27.306374" x="6.4567566" y="26.269098" rx="5" ry="5" />
@@ -2237,7 +2238,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-238" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="11 HP" voltage="" equipment_details="40 HP Drive Motor Explosion Proof" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1.7" id="PE-PS-238" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="11 HP" voltage="" equipment_details="40 HP Drive Motor Explosion Proof" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,1827.5971,674.24814)" class="machine" id="machine-238">
 			<g transform="matrix(-3.8105231,0,0,3.7794187,429.135,-13.110179)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:0.845651;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="23.950562" height="27.306374" x="6.4567566" y="26.269098" rx="5" ry="5" />
@@ -2320,7 +2321,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-237" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="2.2 kw" voltage="220/440VAC" equipment_details="30 HP Drive Motor (High and Low Speed)" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1.7" id="PE-PS-237" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="2.2 kw" voltage="220/440VAC" equipment_details="30 HP Drive Motor (High and Low Speed)" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,1827.5971,729.06162)" class="machine" id="machine-237">
 			<g transform="matrix(-3.8105231,0,0,3.7794187,429.135,-13.110179)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:0.845651;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="23.950562" height="27.306374" x="6.4567566" y="26.269098" rx="5" ry="5" />
@@ -2403,7 +2404,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-232" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="1HP" voltage="220VAC" equipment_details="40 HP Drive Motor Explosion Proof" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1.7" id="PE-PS-232" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="1HP" voltage="220VAC" equipment_details="40 HP Drive Motor Explosion Proof" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,1827.5971,783.8751)" class="machine" id="machine-232">
 			<g transform="matrix(-3.8105231,0,0,3.7794187,429.135,-13.110179)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:0.845651;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="23.950562" height="27.306374" x="6.4567566" y="26.269098" rx="5" ry="5" />
@@ -2486,7 +2487,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-202" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="13 HP" voltage="220VAC" equipment_details="60 HP Drive Motor (Variable Speed) 3 HP Hydraulic Pump" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="1.7" id="PE-PS-202" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="13 HP" voltage="220VAC" equipment_details="60 HP Drive Motor (Variable Speed) 3 HP Hydraulic Pump" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,1828.0177,838.68858)" class="machine" id="machine-202">
 			<g transform="matrix(-3.8105231,0,0,3.7794187,429.135,-13.110179)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:0.845651;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="23.950562" height="27.306374" x="6.4567566" y="26.269098" rx="5" ry="5" />
@@ -2569,7 +2570,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-278" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="40 HP Drive Motor w/ Frequency Inveter Fixed Type 440V" vfd_brand_model="VACON" vfd_location="EE ROOM 2" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-278" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="40 HP Drive Motor w/ Frequency Inveter Fixed Type 440V" vfd_brand_model="VACON" vfd_location="EE ROOM 2" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,1987.2473,935.59678)" class="machine" id="machine-278">
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="504.12241" height="78.592567" x="-1165.1102" y="403.10132" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="121.98047" height="28.317125" x="-1028.2211" y="481.86887" rx="7.5590553" ry="7.5590553" />
@@ -2696,7 +2697,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-277" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="40 HP Drive Motor w/ Frequency Inveter Fixed Type 440V" vfd_brand_model="VACON" vfd_location="EE ROOM 2" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-277" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="40 HP Drive Motor w/ Frequency Inveter Fixed Type 440V" vfd_brand_model="VACON" vfd_location="EE ROOM 2" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,1987.12,872.67718)" class="machine" id="machine-277">
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="504.12241" height="78.592567" x="-1165.1102" y="403.10132" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="121.98047" height="28.317125" x="-1028.2211" y="481.86887" rx="7.5590553" ry="7.5590553" />
@@ -2823,7 +2824,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-206" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="31 HP" voltage="220VAC" equipment_details="10 HP 26Amp Main Motor with Inverter 5 HP 16/8.0A" vfd_brand_model="VACON 0100-3L-0024-2" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-206" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="31 HP" voltage="220VAC" equipment_details="10 HP 26Amp Main Motor with Inverter 5 HP 16/8.0A" vfd_brand_model="VACON 0100-3L-0024-2" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-1981.4019,-706.89596)" class="vfd" id="vfd-206">
 			<g inkscape:label="Layer 1" id="layer1-9-6-9-4-1-9" transform="matrix(0.1511811,0,0,0.1511811,3637.152,1166.0865)">
 				<rect style="fill:#f4eed7;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -2926,7 +2927,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-205" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="33 HP" voltage="220VAC" equipment_details="10 HP 26Amp Drive Motor with Inverter Taiwan" vfd_brand_model="VACON 0100-3L-0024-2" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-205" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="33 HP" voltage="220VAC" equipment_details="10 HP 26Amp Drive Motor with Inverter Taiwan" vfd_brand_model="VACON 0100-3L-0024-2" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-1902.9466,-706.94957)" class="vfd" id="vfd-205">
 			<g inkscape:label="Layer 1" id="layer1-9-6-9-4-4-3" transform="matrix(0.1511811,0,0,0.1511811,3637.152,1166.0865)">
 				<rect style="fill:#f4eed7;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -3029,7 +3030,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-207" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="53 HP" voltage="220VAC" equipment_details="15 HP 37A Main Motor with Inverter 3 HP 8.6A Hydraulic" vfd_brand_model="TECO A510" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-207" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="53 HP" voltage="220VAC" equipment_details="15 HP 37A Main Motor with Inverter 3 HP 8.6A Hydraulic" vfd_brand_model="TECO A510" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-1824.4913,-707.00318)" class="vfd" id="vfd-207">
 			<g inkscape:label="Layer 1" id="layer1-9-6-9-4-4-3-0" transform="matrix(0.1511811,0,0,0.1511811,3637.152,1166.0865)">
 				<rect style="fill:#f4eed7;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -3132,7 +3133,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-259" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="203 HP" voltage="440VAC" equipment_details="15 HP drive motor with Inverter 3 HP hydraulic pump motor" vfd_brand_model="TECO A510" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-259" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="203 HP" voltage="440VAC" equipment_details="15 HP drive motor with Inverter 3 HP hydraulic pump motor" vfd_brand_model="TECO A510" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2059.8572,-707.13105)" class="vfd" id="vfd-259">
 			<g inkscape:label="Layer 1" id="layer1-9-6-9-4-2-8" transform="matrix(0.1511811,0,0,0.1511811,3637.152,1166.0865)">
 				<rect style="fill:#f4eed7;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -3235,7 +3236,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-258" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="23 HP" voltage="" equipment_details="15 HP drive motor with Inverter 3 HP hydraulic pump motor" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-258" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="23 HP" voltage="" equipment_details="15 HP drive motor with Inverter 3 HP hydraulic pump motor" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2138.3125,-707.13105)" class="vfd" id="vfd-258">
 			<g inkscape:label="Layer 1" id="layer1-9-6-9-4-7-9" transform="matrix(0.1511811,0,0,0.1511811,3637.152,1166.0865)">
 				<rect style="fill:#f4eed7;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -3338,7 +3339,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-255" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="23 HP" voltage="" equipment_details="20 HP drive motor with Inverter 3 HP hydraulic pump motor" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-255" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="23 HP" voltage="" equipment_details="20 HP drive motor with Inverter 3 HP hydraulic pump motor" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2405.3255,-705.95149)" class="vfd" id="vfd-255">
 			<g inkscape:label="Layer 1" id="layer1-9-6-9-4-1" transform="matrix(0.1511811,0,0,0.1511811,3637.152,1166.0865)">
 				<rect style="fill:#f4eed7;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -3441,7 +3442,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-266" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="30 HP" voltage="" equipment_details="20 HP drive motor with Inverter 3 HP hydraulic pump motor" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-266" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="30 HP" voltage="" equipment_details="20 HP drive motor with Inverter 3 HP hydraulic pump motor" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2327.1519,-706.0051)" class="vfd" id="vfd-266">
 			<g inkscape:label="Layer 1" id="layer1-9-6-9-4-4" transform="matrix(0.1511811,0,0,0.1511811,3637.152,1166.0865)">
 				<rect style="fill:#f4eed7;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -3544,7 +3545,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-270" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="440VAC" equipment_details="30 HP drive motor with Inverter 3 HP hydraulic pump motor" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-270" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="440VAC" equipment_details="30 HP drive motor with Inverter 3 HP hydraulic pump motor" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2483.4991,-706.18658)" class="vfd" id="vfd-270">
 			<g inkscape:label="Layer 1" id="layer1-9-6-9-4-2" transform="matrix(0.1511811,0,0,0.1511811,3637.152,1166.0865)">
 				<rect style="fill:#f4eed7;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -3647,7 +3648,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-282" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="153 HP" voltage="220/440VAC" equipment_details="30 HP Drive Motor w/ Frequency Inverter 3 HP Hydraulic" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-282" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="153 HP" voltage="220/440VAC" equipment_details="30 HP Drive Motor w/ Frequency Inverter 3 HP Hydraulic" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2561.6727,-706.18658)" class="vfd" id="vfd-282">
 			<g inkscape:label="Layer 1" id="layer1-9-6-9-4-7" transform="matrix(0.1511811,0,0,0.1511811,3637.152,1166.0865)">
 				<rect style="fill:#f4eed7;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -3750,7 +3751,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-212" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="2 HP" voltage="220VAC" equipment_details="30 HP 76A Drive Motor (Variable Speed) 3 HP Hydraulic" vfd_brand_model="TECO A510s" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-212" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="2 HP" voltage="220VAC" equipment_details="30 HP 76A Drive Motor (Variable Speed) 3 HP Hydraulic" vfd_brand_model="TECO A510s" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2457.8428,-1133.8542)" class="vfd" id="vfd-212">
 			<g inkscape:label="Layer 1" id="layer1-9-6-9-4" transform="matrix(0.1511811,0,0,0.1511811,3637.152,1166.0865)">
 				<rect style="fill:#f4eed7;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -3853,7 +3854,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-211" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="220VAC" equipment_details="30 HP 80A Drive Motor (Variable Speed) 3 HP Hydraulic" vfd_brand_model="TECO A510" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-211" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="220VAC" equipment_details="30 HP 80A Drive Motor (Variable Speed) 3 HP Hydraulic" vfd_brand_model="TECO A510" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2271.9052,-1133.8551)" class="vfd" id="vfd-211">
 			<g inkscape:label="Layer 1" id="layer1-80-4-8-1-3-5" transform="matrix(0.1511811,0,0,0.1511811,3529.192,1166.0865)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -3953,7 +3954,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-272" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="33 HP" voltage="220VAC" equipment_details="30 HP DRIVE MOTOR" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-272" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="33 HP" voltage="220VAC" equipment_details="30 HP DRIVE MOTOR" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2535.8203,-1133.8006)" class="vfd" id="vfd-272">
 			<g inkscape:label="Layer 1" id="layer1-9-6-9-1" transform="matrix(0.1511811,0,0,0.1511811,3637.152,1166.0865)">
 				<rect style="fill:#f4eed7;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -4056,7 +4057,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-214" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="1HP" voltage="220VAC" equipment_details="50 Hp 127 Amp Taiwan" vfd_brand_model="TECO A510" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-214" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="1HP" voltage="220VAC" equipment_details="50 Hp 127 Amp Taiwan" vfd_brand_model="TECO A510" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2505.8379,-1133.8006)" class="vfd" id="vfd-214">
 			<g inkscape:label="Layer 1" id="layer1-80-4-8-1-3" transform="matrix(0.1511811,0,0,0.1511811,3529.192,1166.0865)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -4156,7 +4157,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-271" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="440VAC" equipment_details="40 HP DRIVE MOTOR" vfd_brand_model="VACON" vfd_location="NEW PLATFORM" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-271" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="440VAC" equipment_details="40 HP DRIVE MOTOR" vfd_brand_model="VACON" vfd_location="NEW PLATFORM" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,661.27301,194.9192)" class="machine" id="machine-271">
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="504.12241" height="78.592567" x="-1165.1102" y="403.10132" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="121.98047" height="28.317125" x="-1028.2211" y="481.86887" rx="7.5590553" ry="7.5590553" />
@@ -4236,44 +4237,22 @@
 			</g>
 		</g>
 		<g transform="translate(681.05684,107.59968)" class="vfd" id="vfd-271">
-			<g transform="matrix(0.04,0,0,0.04,-281.42464,169.58619)">
-				<path d="m 0,0 c 639.87,0 1279.74,0 1939,0 0,639.87 0,1279.74 0,1939 -639.87,0 -1279.74,0 -1939,0 C 0,1299.13 0,659.26 0,0 Z" fill="#4c4c4c" id="path2201" />
-				<path d="m 0,0 c 175.23,0 350.46,0 531,0 0,456.39 0,912.78 0,1383 -175.23,0 -350.46,0 -531,0 C 0,926.61 0,470.22 0,0 Z" fill="#00007f" transform="translate(750,278)" id="path2202" />
-				<path d="m 0,0 c 48.51,0 97.02,0 147,0 0,635.91 0,1271.82 0,1927 -48.51,0 -97.02,0 -147,0 C 0,1291.09 0,655.18 0,0 Z" fill="#656565" transform="translate(1783,7)" id="path2203" />
-				<path d="m 0,0 c 48.51,0 97.02,0 147,0 0,635.91 0,1271.82 0,1927 -48.51,0 -97.02,0 -147,0 C 0,1291.09 0,655.18 0,0 Z" fill="#656565" transform="translate(12,7)" id="path2204" />
-				<path d="m 0,0 c 127.05,0 254.1,0 385,0 0,155.43 0,310.86 0,471 -127.05,0 -254.1,0 -385,0 C 0,315.57 0,160.14 0,0 Z" fill="#191919" transform="translate(815,341)" id="path2205" />
-				<path d="m 0,0 c 639.87,0 1279.74,0 1939,0 0,639.87 0,1279.74 0,1939 -639.87,0 -1279.74,0 -1939,0 C 0,1299.13 0,659.26 0,0 Z m 164,4 c 0,637.23 0,1274.46 0,1931 532.62,0 1065.24,0 1614,0 0,-637.23 0,-1274.46 0,-1931 C 1245.38,4 712.76,4 164,4 Z M 12,7 c 0,635.91 0,1271.82 0,1927 48.51,0 97.02,0 147,0 C 159,1298.09 159,662.18 159,7 110.49,7 61.98,7 12,7 Z m 1771,0 c 0,635.91 0,1271.82 0,1927 48.51,0 97.02,0 147,0 0,-635.91 0,-1271.82 0,-1927 -48.51,0 -97.02,0 -147,0 z" fill="#030303" id="path2206" />
-				<path d="m 0,0 c 95.37,0 190.74,0 289,0 0,41.91 0,83.82 0,127 -95.37,0 -190.74,0 -289,0 C 0,85.09 0,43.18 0,0 Z" fill="#989898" transform="translate(863,399)" id="path2207" />
-				<path d="m 0,0 c 175.23,0 350.46,0 531,0 0,456.39 0,912.78 0,1383 -175.23,0 -350.46,0 -531,0 C 0,926.61 0,470.22 0,0 Z m 8,8 c 0,451.11 0,902.22 0,1367 169.95,0 339.9,0 515,0 C 523,923.89 523,472.78 523,8 353.05,8 183.1,8 8,8 Z" fill="#000002" transform="translate(750,278)" id="path2208" />
-				<path d="m 0,0 c 10.110161,8.6738989 17.411361,19.225241 22.117187,31.71875 0.318399,0.800508 0.636797,1.601016 0.964844,2.425781 5.64186,16.717584 2.14671,35.95521 -4.964844,51.574219 -11.1090793,20.72217 -29.503471,33.2061 -51.562499,39.9375 -21.158779,5.91137 -44.91039,2.21437 -64.1875,-7.75 -5.551108,-3.19067 -10.449238,-6.96345 -15.249998,-11.1875 -0.77344,-0.67805 -1.54688,-1.35609 -2.34375,-2.05469 -13.87796,-12.974937 -20.60668,-29.944485 -21.91016,-48.574216 -0.57835,-17.891492 5.57825,-34.651521 17.69141,-47.808594 1.82286,-1.8900594 3.68475,-3.7255149 5.5625,-5.5625 0.6948,-0.7270313 1.38961,-1.4540625 2.10547,-2.203125 C -81.778349,-28.961144 -30.956131,-24.49645 0,0 Z" fill="#cacaca" transform="translate(1062.8828,599.28125)" id="path2209" />
-				<path d="m 0,0 c 127.05,0 254.1,0 385,0 0,155.43 0,310.86 0,471 -127.05,0 -254.1,0 -385,0 C 0,315.57 0,160.14 0,0 Z m 3,4 c 0,153.12 0,306.24 0,464 124.74,0 249.48,0 378,0 0,-153.12 0,-306.24 0,-464 C 256.26,4 131.52,4 3,4 Z" fill="#000001" transform="translate(815,341)" id="path2210" />
-				<path d="m 0,0 c 0.99,0 1.98,0 3,0 0,637.23 0,1274.46 0,1931 -0.99,0 -1.98,0 -3,0 C 0,1293.77 0,656.54 0,0 Z" fill="#404040" transform="translate(4,4)" id="path2211" />
-				<path d="m 0,0 c 7.92,0 15.84,0 24,0 1.307109,2.5407422 1.307109,2.5407422 2.640625,5.1328125 C 32.791768,17.059509 38.970993,28.960372 45.475586,40.699707 50.821632,50.383223 55.861799,60.190708 61,70 61.33,46.9 61.66,23.8 62,0 c 5.28,0 10.56,0 16,0 0,33.33 0,66.66 0,101 -6.27,0 -12.54,0 -19,0 C 51.687779,87.417272 44.394323,73.82972 37.3125,60.125 31.744643,49.351885 25.984276,38.692556 20.122314,28.076904 19.039639,26.073354 18.01847,24.036939 17,22 16.67,48.07 16.34,74.14 16,101 10.72,101 5.44,101 0,101 0,67.67 0,34.34 0,0 Z" fill="#0b0b10" transform="translate(1170,919)" id="path2212" />
-				<path d="m 0,0 c 7.4341898,5.9751432 11.522968,14.323146 13.714844,23.492187 0.380974,3.8653 0.375953,7.681712 0.3125,11.5625 0.0032,0.989356 0.0064,1.978711 0.0098,2.998047 -0.08207,11.2429 -2.843781,21.7382 -10.1074215,30.623047 -6.4736633,6.181219 -14.3445355,8.960215 -23.2148435,9.316406 -9.582134,-0.396673 -17.174064,-3.558376 -24.0625,-10.25 -9.147331,-10.622706 -10.900342,-25.717699 -9.9375,-39.25 C -52.31118,18.149485 -47.906104,7.9430491 -40.148437,0.890625 -28.326979,-7.9816646 -12.320159,-8.1291988 0,0 Z" fill="#00007e" transform="translate(1126.2852,933.50781)" id="path2213" />
-				<path d="m 0,0 c 3.9994699,3.367738 7.8884453,6.7658406 11.558594,10.496094 0.798574,0.806308 1.597148,1.612617 2.419922,2.443359 1.635447,1.661428 3.270864,3.322886 4.90625,4.984375 4.317691,4.359442 8.697725,8.545624 13.353759,12.541748 2.359889,2.055704 4.566281,4.24243 6.761475,6.471924 0.763125,0.772148 1.52625,1.544297 2.3125,2.339844 C 41.869375,39.84582 42.42625,40.414297 43,41 29.567756,56.853672 14.742337,71.3815 0,86 -3.7771934,84.405726 -6.3670605,82.023555 -9.3554688,79.246094 -9.8733647,78.764906 -10.391261,78.283718 -10.92485,77.787949 c -5.945519,-5.552932 -11.789569,-11.21047 -17.571,-16.933701 -1.229175,-1.212326 -2.463723,-2.419225 -3.703125,-3.621094 -1.816849,-1.762502 -3.617067,-3.54053 -5.414306,-5.322998 -0.558109,-0.535439 -1.116218,-1.070878 -1.691239,-1.622543 C -40.825439,48.758057 -40.825439,48.758057 -43,46 c 0.233308,-3.826598 2.335813,-5.69997 4.968994,-8.30957 0.840796,-0.84057 1.681592,-1.681139 2.547867,-2.54718 0.913537,-0.898054 1.827075,-1.796108 2.768295,-2.721375 1.396229,-1.389861 1.396229,-1.389861 2.820664,-2.8078 2.470911,-2.459475 4.9507,-4.909806 7.432449,-7.358338 2.532384,-2.501658 5.056262,-5.011863 7.580872,-7.521362 C -9.9288605,9.8145199 -4.9674305,4.9042725 0,0 Z" fill="#00fc00" transform="translate(1146,706)" id="path2214" />
-				<path d="m 0,0 c 20.79,0 41.58,0 63,0 0,19.8 0,39.6 0,60 C 42.21,60 21.42,60 0,60 0,40.2 0,20.4 0,0 Z" fill="#00007f" transform="translate(1114,547)" id="path2215" />
-				<path d="m 0,0 c 20.79,0 41.58,0 63,0 0,19.8 0,39.6 0,60 C 42.21,60 21.42,60 0,60 0,40.2 0,20.4 0,0 Z" fill="#00007f" transform="translate(854,547)" id="path2216" />
-				<path d="m 0,0 c 8.1825426,7.0501371 13.261421,14.37593 14.34375,25.199219 0.400286,9.606857 -3.285468,17.413348 -9.21875,24.8125 -5.51351525,5.949836 -11.8538221,9.821704 -20.039063,10.347656 -11.365897,0.384068 -19.891593,-0.897079 -28.882812,-8.316406 -6.080921,-5.943758 -10.265117,-13.052498 -10.45874,-21.652344 0.02902,-10.681305 1.821088,-18.5626 9.39624,-26.5585937 C -32.294884,-7.6936634 -14.561704,-10.070526 0,0 Z" fill="#fd0000" transform="translate(900.875,721.98828)" id="path2217" />
-				<path d="m 0,0 c 98.34,0 196.68,0 298,0 0,44.55 0,89.1 0,135 -98.34,0 -196.68,0 -298,0 C 0,90.45 0,45.9 0,0 Z m 5,4 c 0,41.91 0,83.82 0,127 95.37,0 190.74,0 289,0 0,-41.91 0,-83.82 0,-127 C 198.63,4 103.26,4 5,4 Z" fill="#010101" transform="translate(858,395)" id="path2218" />
-				<path d="m 0,0 c 4.95,0 9.9,0 15,0 3.622561,8.5198607 6.932019,17.098253 10.054687,25.8125 0.469095,1.302657 0.93843,2.605226 1.40799,3.907715 0.978288,2.715496 1.954653,5.431672 2.929413,8.148437 1.2265,3.418352 2.456321,6.835495 3.687404,10.252198 C 38.459982,63.054883 43.795387,78.003582 49,93 45.7,93 42.4,93 39,93 37.494854,88.876859 35.996756,84.751193 34.5,80.625 33.856113,78.861563 33.856113,78.861563 33.199219,77.0625 32.793164,75.941016 32.387109,74.819531 31.96875,73.664062 31.591699,72.627173 31.214648,71.590283 30.826172,70.521973 30,68 30,68 30,66 c -14.85,0.33 -29.7,0.66 -45,1 -2.97,8.58 -5.94,17.16 -9,26 -2.97,0 -5.94,0 -9,0 1.446201,-7.46869 3.804218,-14.354106 6.472656,-21.46875 0.441942,-1.193148 0.883884,-2.386296 1.339218,-3.615601 1.174425,-3.168053 2.353699,-6.334207 3.53566,-9.49945 2.091164,-5.604583 4.168795,-11.214209 6.250122,-16.822449 0.677438,-1.821929 0.677438,-1.821929 1.368561,-3.680664 3.499629,-9.426474 6.9246235,-18.878431 10.3023529,-28.3492432 0.34635,-0.9691736 0.6926999,-1.9383472 1.0495453,-2.9368897 C -2.3796852,5.7778235 -2.0774857,4.9286938 -1.7661285,4.053833 -1,2 -1,2 0,0 Z" fill="#f8f8f8" transform="translate(908,923)" id="path2219" />
-				<path d="m 0,0 c 5.94,0 11.88,0 18,0 1.087969,2.1269531 2.175937,4.2539062 3.296875,6.4453125 C 28.320029,20.153384 35.36696,33.835118 42.794922,47.32959 46.339398,53.772182 49.820246,60.245561 53.25,66.75 c 0.478726,0.900732 0.957451,1.801465 1.450684,2.729492 0.43393,0.826612 0.867861,1.653223 1.314941,2.504883 0.384463,0.729287 0.768926,1.458574 1.165039,2.209961 C 58,76 58,76 58,78 c 0.99,-0.33 1.98,-0.66 3,-1 0.33,-25.41 0.66,-50.82 1,-77 2.64,0 5.28,0 8,0 0,30.69 0,61.38 0,93 -4.29,0 -8.58,0 -13,0 C 56.272969,91.594922 55.545937,90.189844 54.796875,88.742187 49.689737,78.898778 44.537582,69.088786 39.1875,59.375 33.663301,49.337477 28.389904,39.178247 23.162842,28.983887 20.166055,23.148314 17.143108,17.355031 13.845459,11.682861 13,10 13,10 13,8 11.35,8 9.7,8 8,8 8,36.05 8,64.1 8,93 5.36,93 2.72,93 0,93 0,62.31 0,31.62 0,0 Z" fill="#f9f9f9" transform="translate(1174,923)" id="path2220" />
-				<path d="m 0,0 c 9.4925194,6.5509212 15.309161,17.024246 17.492187,28.292969 2.152634,17.717833 0.862851,35.114368 -10.3945308,49.652343 -4.1445638,4.389805 -8.4540836,7.256375 -14.0429687,9.472657 -0.9783984,0.44666 -0.9783984,0.44666 -1.9765625,0.902343 -10.841686,4.405704 -24.212575,2.939989 -35.023437,-0.902343 -10.620145,-4.898385 -17.267371,-12.907665 -21.4375,-23.75 -4.815602,-14.079695 -4.87948,-33.737645 1.4375,-47.25 C -58.014648,4.6949196 -49.554977,-2.0454763 -37.1875,-6.1679687 -24.537325,-8.5040638 -11.015087,-6.6835314 0,0 Z m -49.945312,11.417969 c -8.253885,10.72575 -9.804201,22.752617 -9,36 1.667005,12.102198 4.794876,22.389742 14.488281,30.304687 7.829853,5.284847 16.192992,6.87845 25.511719,5.695313 7.609719,-1.719309 14.0795273,-4.836461 18.9999995,-11 C 8.7447046,57.923358 10.19908,42.180982 7.40625,25.558594 4.5894713,16.265631 -1.2918593,8.0537473 -9.9453125,3.4179688 -24.056112,-3.4429907 -39.554467,0.02978746 -49.945312,11.417969 Z" fill="#f8f8f8" transform="translate(1131.9453,927.58203)" id="path2221" />
-				<path d="m 0,0 c 5.8049871,4.291544 10.172329,9.6233599 12.1875,16.617187 1.10857,8.071389 -0.349927,14.301541 -5,21 -5.0820618,5.863918 -11.6540031,9.455479 -19.335938,10.417969 -9.617633,0.385957 -16.213521,-1.644683 -23.539062,-7.855469 -6.062847,-7.31108 -7.614688,-12.506119 -7.527344,-21.910156 C -42.399169,10.865108 -38.562757,5.7294816 -32.875,1.1171875 -23.29941,-5.2425851 -9.9843562,-5.81326 0,0 Z" fill="#00007e" transform="translate(1022.8125,631.38281)" id="path2222" />
-				<path d="m 0,0 c 14.645797,11.744649 24.32274,24.569924 29.5625,42.625 0.184739,0.617622 0.369478,1.235244 0.559814,1.871582 4.82643,17.320255 0.993786,35.874289 -7.387939,51.362793 C 10.895459,116.81489 -7.3629379,129.77539 -30.25,136.4375 c -22.322786,6.00858 -47.916354,2.56506 -67.855469,-8.85156 C -118.60352,115.23939 -131.32982,97.712016 -137.4375,74.625 c -4.06071,-18.611607 0.90927,-38.166138 11,-54 13.78443,-19.78715151 34.784642,-32.20534 58.317383,-36.622803 C -43.738325,-19.426076 -19.991415,-14.443925 0,0 Z m -114.4375,12.625 c -0.73863,0.718008 -1.47727,1.436016 -2.23828,2.175781 -11.42662,11.781617 -17.83551,28.15017 -18.13672,44.449219 0.0843,2.460065 0.20774,4.91918 0.375,7.375 0.0709,1.078945 0.1418,2.157891 0.21484,3.269531 2.03104,18.507531 12.86719,34.817309 26.78516,46.730469 19.716959,15.05769 42.496459,20.20764 67,18 21.705583,-3.5719 41.884447,-14.55654 55.222656,-32.26562 C 25.790219,85.42851 30.807333,65.756678 26.914062,45.664062 21.397769,24.68329 7.4215828,8.381273 -10.976563,-2.5546875 -16.598186,-5.5114332 -22.37687,-7.5188443 -28.4375,-9.375 c -1.357383,-0.4795313 -1.357383,-0.4795313 -2.742187,-0.96875 -29.299825,-9.172119 -62.442855,1.6618582 -83.257813,22.96875 z" fill="#070707" transform="translate(1060.4375,592.375)" id="path2223" />
-				<path d="M 0,0 C 1,1 1,1 1.0976562,3.2851563 1.0860547,4.2016797 1.0744531,5.1182031 1.0625,6.0625 1.0534766,6.9816016 1.0444531,7.9007031 1.0351562,8.8476563 1.0235547,9.5579297 1.0119531,10.268203 1,11 -2.2724721,9.8388002 -5.1044713,8.3480737 -8.0625,6.5625 -17.625615,1.2109553 -29.229366,-0.91182267 -39.953125,1.7265625 -49.818653,5.0420269 -56.149502,9.6675824 -61,19 c -1.254783,3.285872 -2.211602,6.574153 -3,10 -0.185625,0.795352 -0.37125,1.590703 -0.5625,2.410156 -2.149306,12.723127 -0.06843,27.229984 7.214844,38.042969 5.221673,6.449675 11.101023,10.789022 19.504883,11.808594 12.984084,0.970974 24.453956,-0.698244 35.3193355,-8.308594 C -1,72 -1,72 1,72 c 0,3.3 0,6.6 0,10 -17.381364,7.862409 -32.092979,10.546059 -51,5 -10.422193,-4.394222 -17.693011,-12.676898 -22,-23 -0.391875,-0.845625 -0.78375,-1.69125 -1.1875,-2.5625 C -77.218032,49.345905 -77.106913,31.164969 -72.257812,19.5 -71.842734,18.675 -71.427656,17.85 -71,17 c 0.435703,-0.886875 0.871406,-1.77375 1.320313,-2.6875 C -63.736264,3.3999851 -54.832268,-2.164179 -43.375,-6.3125 -28.408426,-9.5065858 -13.719291,-5.9388185 0,0 Z" fill="#f7f7f7" transform="translate(1046,928)" id="path2224" />
-				<path d="m 0,0 c 2.97,0 5.94,0 9,0 3.554773,8.2323922 6.712285,16.567658 9.665895,25.031408 0.733231,2.100742 1.470997,4.199845 2.209822,6.298624 1.831297,5.204919 3.655347,10.412369 5.479141,15.619919 1.550012,4.425052 3.10306,8.849015 4.660139,13.271586 0.720773,2.051073 1.437156,4.103642 2.153353,6.156316 C 35.512321,73.058769 38.004341,79.581355 41,86 41.370605,84.958115 41.741211,83.91623 42.123047,82.842773 51.964696,55.185467 61.936494,27.577321 72,0 c 2.97,0 5.94,0 9,0 -0.603072,3.3109077 -1.401279,6.3903999 -2.543701,9.5544434 -0.315584,0.8792866 -0.631167,1.7585736 -0.956314,2.6645046 -0.516262,1.421094 -0.516262,1.421094 -1.042954,2.870896 -0.36065,1.001093 -0.721301,2.002186 -1.09288,3.033615 -1.180259,3.272669 -2.365803,6.543394 -3.551651,9.814041 -0.813159,2.250427 -1.626146,4.500915 -2.438965,6.751465 C 62.334643,54.15755 55.195345,73.588763 48,93 43.05,93 38.1,93 33,93 29.442616,83.366627 25.890553,73.731323 22.345764,64.093307 20.390145,58.776381 18.432536,53.460197 16.472168,48.14502 14.283544,42.210027 12.100154,36.273129 9.9198303,30.335083 9.05596,27.984926 8.1903768,25.635397 7.3230896,23.286499 6.09889,19.969986 4.880782,16.651295 3.6640625,13.332031 3.2928478,12.330556 2.921633,11.32908 2.5391693,10.297256 2.2034944,9.3777873 1.8678195,8.4583182 1.5219727,7.5109863 1.2266666,6.7084895 0.93136047,5.9059927 0.62710571,5.0791779 0,3 0,3 0,0 Z" fill="#f7f7f7" transform="translate(788,923)" id="path2225" />
-				<path d="M 0,0 C 0,6.27 0,12.54 0,19 -4.7224053,18.055519 -6.2675311,17.344608 -10,14.6875 -20.176331,8.0667544 -30.910292,5.5802643 -43,7 c -7.365294,1.868971 -14.057643,6.643216 -18.316406,12.949219 -3.993118,7.499988 -5.029879,15.116443 -4.996094,23.488281 -0.01611,0.794707 -0.03223,1.589414 -0.04883,2.408203 -0.0072,8.876916 2.835004,19.165182 8.927734,25.880859 7.230945,6.567705 15.5583,8.730425 25.203125,8.613282 C -22.44561,79.310481 -13.67613,75.532133 -6.0507812,69.355469 -4,68 -4,68 0,68 0,73.94 0,79.88 0,86 -16.436501,94.965364 -33.406944,97.582072 -51.929687,94.304687 -58.170164,92.415078 -63.159694,89.330204 -68,85 -69.299375,83.855312 -69.299375,83.855312 -70.625,82.6875 -82.155069,69.640317 -84.722321,54.143853 -84.13623,37.190918 -83.233771,22.677169 -77.762239,10.748168 -67,1 -46.013871,-14.81391 -22.231876,-9.3498545 0,0 Z m -70,9 c -2.364701,3.177567 -4.236058,6.456866 -6,10 -0.416367,0.826289 -0.832734,1.652578 -1.261719,2.503906 -5.437272,13.106688 -4.335627,30.753112 0.121094,44.0625 4.716905,10.57166 11.723314,19.189254 22.636719,23.621094 C -36.465863,95.040718 -20.785955,91.4116 -4,84 c 0,-3.3 0,-6.6 0,-10 -1.98,0.99 -1.98,0.99 -4,2 -1.7658997,0.843738 -3.53714,1.676354 -5.3125,2.5 -0.903633,0.422813 -1.807266,0.845625 -2.738281,1.28125 -10.126936,4.184906 -21.996311,5.237097 -32.609375,2.15625 C -58.898997,77.174044 -64.108211,70.266224 -68.066406,59.871094 -69.274015,56.157319 -69.895165,52.892884 -70,49 -70.07541,47.53627 -70.07541,47.53627 -70.152344,46.042969 -70.499398,34.340294 -68.543916,22.254675 -60.5625,13.25 -59.716875,12.5075 -58.87125,11.765 -58,11 c 0.70125,-0.680625 1.4025,-1.36125 2.125,-2.0625 9.003201,-6.0673747 18.368212,-7.1050081 28.914063,-5.4648437 6.527829,1.4084593 11.944031,3.8345448 17.6835932,7.2226567 C -6.9576707,12.123667 -6.9576707,12.123667 -4,13 -4,9.7 -4,6.4 -4,3 -24.977013,-8.0606071 -52.704468,-9.9169883 -70,9 Z" fill="#09090c" transform="translate(1051,926)" id="path2226" />
-				<path d="m 0,0 c 5.94,0 11.88,0 18,0 1.483402,3.9984561 2.963091,7.9982241 4.4375,12 0.233381,0.633282 0.466761,1.266564 0.707214,1.919037 3.514149,9.55097 6.947272,19.129231 10.335755,28.725494 0.383269,1.08522 0.766539,2.170439 1.161422,3.288544 1.932048,5.474402 3.859244,10.950473 5.781693,16.428253 0.715532,2.031917 1.431106,4.063818 2.146728,6.095703 0.331828,0.949702 0.663656,1.899404 1.005539,2.877884 0.305131,0.865057 0.610261,1.730113 0.924637,2.621384 0.266605,0.760008 0.533209,1.520016 0.807892,2.303055 C 45.866297,77.998308 45.866297,77.998308 47,79 c 0.262294,-0.741211 0.524588,-1.482422 0.79483,-2.246094 2.498389,-7.059294 4.998234,-14.11807 7.499628,-21.1763 1.285273,-3.626832 2.570023,-7.253846 3.853491,-10.881317 C 74.396192,1.6038081 74.396192,1.6038081 76,0 c 2.864693,-0.07330331 5.698937,-0.09217831 8.5625,-0.0625 1.505124,0.01148886 3.010252,0.02261504 4.515381,0.03344727 C 90.37218,-0.01946533 91.666479,-0.00987793 93,0 87.84343,14.825652 82.573689,29.608603 77.25,44.375 c -0.391301,1.085864 -0.782602,2.171728 -1.185761,3.290497 -9.29114,25.778609 -9.29114,25.778609 -13.925933,38.476166 -0.686058,1.880415 -1.369728,3.761701 -2.053345,5.643005 -0.400576,1.093286 -0.801152,2.186572 -1.213867,3.312988 -0.341038,0.933362 -0.682075,1.866724 -1.033448,2.828369 C 57,100 57,100 56,101 c -1.488719,0.0867 -2.981445,0.10703 -4.472656,0.0977 -0.899121,-0.003 -1.798242,-0.006 -2.72461,-0.01 -1.418291,-0.0126 -1.418291,-0.0126 -2.865234,-0.0254 -0.949395,-0.005 -1.898789,-0.009 -2.876953,-0.0137 C 40.706969,101.037 38.353515,101.02052 36,101 35.414363,99.340131 35.414363,99.340131 34.816895,97.646729 32.923416,92.283965 31.025138,86.922907 29.125,81.5625 28.774516,80.573688 28.424032,79.584877 28.062927,78.566101 21.443543,59.909839 14.646469,41.321483 7.7661133,22.76001 7.3952661,21.756792 7.0244189,20.753574 6.642334,19.719955 5.9512195,17.850604 5.2580176,15.982022 4.5622559,14.114395 4.0985559,12.859183 4.0985559,12.859183 3.6254883,11.578613 3.3584207,10.859407 3.0913532,10.140201 2.8161926,9.3992004 1.7628157,6.302796 0.89852388,3.1448336 0,0 Z m 6,4 c 0.5795672,4.0219503 1.4523514,7.630922 2.8666992,11.4375 0.385193,1.04482 0.7703861,2.089641 1.1672518,3.166122 0.419343,1.120805 0.838686,2.24161 1.270737,3.396378 0.435577,1.177241 0.871154,2.354483 1.319931,3.567398 1.170953,3.162078 2.346487,6.322379 3.524127,9.481968 1.209148,3.247633 2.41225,6.497502 3.615658,9.747265 1.887558,5.09584 3.777734,10.190699 5.669678,15.284912 3.149501,8.485123 6.269412,16.98093 9.378418,25.480957 0.839839,2.292971 1.679682,4.58594 2.519531,6.878906 C 38.157676,94.69791 38.157676,94.69791 39,97 c 4.95,0 9.9,0 15,0 0.573311,-1.589414 1.146621,-3.178828 1.737305,-4.816406 2.425495,-6.722209 4.853565,-13.443486 7.282871,-20.164318 0.726133,-2.009063 1.452024,-4.018213 2.177914,-6.027363 6.074984,-16.810726 12.178426,-33.608398 18.599762,-50.290741 0.434091,-1.137598 0.868183,-2.275195 1.315429,-3.447266 0.369075,-0.955759 0.73815,-1.911518 1.118408,-2.89624 C 87.15492,6.9378883 87.15492,6.9378883 87,4 84.03,4 81.06,4 78,4 67.641374,32.657565 57.317412,61.327575 47,90 43.56715,81.987359 40.459798,73.917464 37.601562,65.683594 37.203514,64.547048 36.805466,63.410503 36.395355,62.239517 35.135228,58.640003 33.879801,55.038874 32.625,51.4375 25.890253,32.107966 25.890253,32.107966 18.960937,12.847656 18.67248,12.055321 18.384022,11.262986 18.086823,10.44664 16.998536,6.9580435 16.998536,6.9580435 15,4 13.48072,3.9282004 11.958325,3.9160799 10.4375,3.9375 9.1980664,3.9510352 9.1980664,3.9510352 7.9335937,3.9648438 6.9764648,3.9822461 6.9764648,3.9822461 6,4 Z" fill="#08080c" transform="translate(782,919)" id="path2227" />
-				<path d="m 0,0 c 0.83265381,0.00523682 1.6653076,0.01047363 2.5231934,0.01586914 0.8096118,0.0024976 1.6192236,0.0049951 2.4533691,0.0075684 1.0350366,0.009104 2.0700732,0.01820801 3.1364746,0.02758789 1.7727029,0.01148847 3.5454079,0.0226147 5.3181149,0.03344727 1.539795,0.0096842 3.07959,0.01936849 4.619385,0.02905273 C 23.742961,15.620131 29.426152,31.130043 35.085693,46.648682 c 0.50133,1.374461 1.002663,2.748922 1.503998,4.123382 2.029725,5.56504 4.059167,11.130183 6.087555,16.695709 1.269894,3.484261 2.540541,6.968247 3.811674,10.452055 0.475911,1.304783 0.95154,2.609668 1.426869,3.914662 0.656265,1.801686 1.313575,3.602991 1.97093,5.40428 0.556459,1.526398 0.556459,1.526398 1.124161,3.083633 0.684998,1.838984 1.409383,3.663842 2.174896,5.470795 0.864761,2.320327 0.864761,2.320327 0.864761,5.320332 -5.94,0 -11.88,0 -18,0 -2.97,-8.580005 -5.94,-17.160005 -9,-26.000005 -19.7999999,-0.495 -19.7999999,-0.495 -40,-1 -0.33,1.98 -0.66,3.96 -1,6 -0.489732,1.654785 -1.020712,3.297968 -1.59375,4.925782 -0.308086,0.878496 -0.616172,1.756992 -0.933594,2.662109 -0.481464,1.348682 -0.481464,1.348682 -0.972656,2.724609 -0.320976,0.918457 -0.641953,1.836914 -0.972656,2.783204 -2.391067,6.76802 -2.391067,6.76802 -3.527344,7.904301 -2.862676,0.0733 -5.700719,0.0924 -8.5625,0.0625 -0.806308,-0.005 -1.612617,-0.009 -2.443359,-0.0137 -1.998078,-0.0118 -3.996119,-0.0298 -5.994141,-0.0488 2.1813,-7.630989 4.752371,-15.082283 7.464844,-22.539067 0.429968,-1.188309 0.859935,-2.376618 1.302933,-3.600937 1.150456,-3.17676 2.303481,-6.35256 3.458191,-9.527775 0.713368,-1.962275 1.425792,-3.924891 2.137924,-5.887615 5.572373,-15.35641 11.162189,-30.706408 16.8861081,-46.007111 0.245798,-0.659214 0.4915961,-1.318429 0.7448425,-1.997619 C -6.2843065,9.7584152 -5.6092442,7.9651998 -4.9338379,6.1721191 -4.57,5.2058862 -4.2061621,4.2396533 -3.8312988,3.2441406 -2.5500506,0.14850013 -2.5500506,0.14850013 0,0 Z M 0.05053711,4.1135254 C -6.4922128,21.415867 -12.849657,38.781871 -19.12738,56.181763 c -1.637545,4.537982 -3.277071,9.075248 -4.91684,13.612426 -0.865409,2.394965 -1.730251,4.790135 -2.594421,7.185547 -0.39116,1.083135 -0.78232,2.16627 -1.185334,3.282227 -0.546451,1.515454 -0.546451,1.515454 -1.103942,3.061523 -0.9067,2.476373 -1.850673,4.934202 -2.80719,7.391602 -1.382601,3.2678 -1.382601,3.2678 -1.214356,6.398437 2.97,0 5.94,0 9,0 2.97,-8.58 5.94,-17.16 9,-26 22.2750001,-0.495 22.2750001,-0.495 45,-1 0.99,3.63 1.98,7.26 3,11 1.025583,2.922038 2.066081,5.805037 3.1875,8.6875 0.272637,0.713496 0.545274,1.426993 0.826172,2.16211 0.657446,1.718588 1.321176,3.43477 1.986328,5.15039 3.3,0 6.6,0 10,0 C 43.439606,80.958105 37.691697,64.852264 31.915527,48.755371 30.87321,45.850142 29.832957,42.944186 28.794434,40.037598 27.518563,36.466732 26.239313,32.897094 24.957663,29.328299 24.476946,27.988059 23.997361,26.647414 23.519007,25.30633 20.949636,18.106162 18.268364,11.050104 15.050537,4.1135254 c -4.95,0 -9.8999999,0 -14.99999989,0 z" fill="#05050b" transform="translate(907.94946,918.88647)" id="path2228" />
-				<path d="m 0,0 c 9.5366174,7.3769798 14.507705,19.443197 16.511719,31.023437 1.902607,16.554459 0.346753,33.683349 -9.5820315,47.636719 -5.3810582,6.599801 -11.1002525,10.871995 -19.0000005,14 -0.768281,0.318399 -1.536562,0.636797 -2.328125,0.964844 -11.900772,4.275609 -25.653842,2.94297 -37.132812,-2.03125 -12.542253,-6.485158 -19.021825,-16.055096 -23.777344,-29.097656 -4.13379,-15.39042 -3.272701,-34.385116 3.925782,-48.585938 6.611954,-11.1995086 14.463522,-18.2340378 27.015625,-21.6718747 0.757968,-0.1907813 1.515937,-0.3815625 2.296875,-0.5781251 0.621328,-0.186914 1.242656,-0.3738281 1.882812,-0.5664062 C -25.749352,-11.86314 -12.06467,-7.80789 0,0 Z m -62.042969,6.7304687 c -8.54417,10.4126413 -11.386737,21.5498743 -11.277343,34.8046873 -0.0077,0.929414 -0.01547,1.858828 -0.02344,2.816406 0.03857,13.827874 3.2604,27.258264 13.273438,37.308594 11.257119,9.275867 24.739527,11.358868 39,10 11.5144968,-2.386494 20.22039372,-8.442409 26.9999995,-18 C 14.591074,58.582927 14.724513,40.749212 10.964844,24.136719 7.9932152,14.156532 2.3827076,5.7467215 -6.4882812,0.12890625 -24.114521,-9.2717549 -47.761687,-8.2578072 -62.042969,6.7304687 Z" fill="#07070c" transform="translate(1137.0703,926.33984)" id="path2229" />
-				<path d="M 0,0 C 2.9183422,1.3148357 4.9492093,2.7163328 7.171875,5.0117187 7.7545313,5.605332 8.3371875,6.1989453 8.9375,6.8105469 9.535625,7.4299414 10.13375,8.0493359 10.75,8.6875 14.282793,12.325808 17.810959,15.887352 21.671875,19.179687 27.587338,24.278015 33.00328,29.897479 38.5,35.4375 c 1.119556,1.124583 2.239346,2.248934 3.359375,3.373047 C 44.575615,41.537693 47.288683,44.267959 50,47 c -3.662905,6.297832 -8.821687,11.055816 -13.980469,16.140625 -0.978889,0.97261 -1.957259,1.945743 -2.935135,2.919373 -2.561587,2.548352 -5.128701,5.091055 -7.697494,7.632141 -4.122889,4.079573 -8.23889,8.166069 -12.351771,12.255729 -1.436281,1.426058 -2.875923,2.848658 -4.3159385,4.270943 C 7.8512657,91.080207 6.9833389,91.941603 6.0891113,92.829102 5.3217415,93.588218 4.5543716,94.347335 3.7637482,95.129456 1.9359578,96.887896 1.9359578,96.887896 1,99 -2.4743967,97.509838 -4.7036846,95.53399 -7.3537598,92.857422 -8.2046669,92.003136 -9.055574,91.14885 -9.9322662,90.268677 -10.842782,89.344701 -11.753299,88.420725 -12.691406,87.46875 c -0.950655,-0.95693 -1.90183,-1.913343 -2.853501,-2.869263 -2.500299,-2.51358 -4.994967,-5.032671 -7.488052,-7.553405 -3.992513,-4.035688 -7.991785,-8.06465 -11.994337,-12.090378 -1.395534,-1.405742 -2.787485,-2.815039 -4.179384,-4.224381 -0.847755,-0.854286 -1.69551,-1.708572 -2.568955,-2.588745 -0.745163,-0.753417 -1.490327,-1.506833 -2.258072,-2.283081 C -46.061314,53.837301 -46.061314,53.837301 -49,52 c 1.401202,-3.172834 3.051458,-5.29169 5.512451,-7.723633 1.077035,-1.071966 1.077035,-1.071966 2.175827,-2.165588 0.777048,-0.763588 1.554096,-1.527177 2.354691,-2.313904 0.801822,-0.79662 1.603644,-1.593241 2.429764,-2.414001 2.566891,-2.549081 5.140343,-5.091403 7.714767,-7.632874 2.555744,-2.527998 5.109974,-5.057478 7.661209,-7.590027 1.586611,-1.574497 3.175887,-3.146316 4.76828,-4.714966 4.13449,-4.097691 8.0870913,-8.2792651 11.8648988,-12.7091061 C -3.0734587,3.0839971 -1.5698999,1.5323931 0,0 Z m -3.0766602,9.8837891 c -1.2960667,1.2719719 -1.2960667,1.2719719 -2.6183166,2.5696409 -0.9385483,0.928024 -1.8770966,1.856049 -2.8440857,2.812195 -0.4747313,0.469408 -0.9494625,0.938815 -1.4385796,1.422447 -2.5113869,2.484637 -5.0190709,4.972951 -7.5243109,7.463783 -2.593909,2.577246 -5.201562,5.140112 -7.812479,7.700108 -2.000174,1.966587 -3.989283,3.944086 -5.975557,5.924702 -1.422902,1.412884 -2.857874,2.813578 -4.292927,4.214119 -0.85774,0.86059 -1.715481,1.72118 -2.599213,2.607849 -0.763095,0.755008 -1.526189,1.510016 -2.312408,2.287903 -1.718125,1.960529 -1.718125,1.960529 -1.440293,4.170059 1.086908,2.259557 2.294662,3.670797 4.074234,5.439255 0.661264,0.664265 1.322528,1.32853 2.00383,2.012924 0.719725,0.707378 1.43945,1.414756 2.180985,2.14357 1.108531,1.105721 1.108531,1.105721 2.239456,2.23378 1.566021,1.559297 3.135636,3.114991 4.708542,4.667343 2.395501,2.364507 4.780321,4.739364 7.16333,7.116455 1.524773,1.515595 3.050145,3.030589 4.576172,4.544922 0.709603,0.705354 1.419207,1.410707 2.150314,2.137436 C -9.0314601,85.104769 -5.1639128,88.647487 -1,92 c 2.8401531,-1.291788 4.8969839,-2.647831 7.0969238,-4.854004 0.5777266,-0.57465 1.1554532,-1.1493 1.7506867,-1.741363 0.6136088,-0.620795 1.2272177,-1.241589 1.8594208,-1.881196 0.9654297,-0.966117 0.9654297,-0.966117 1.9503627,-1.951751 1.361449,-1.364467 2.720469,-2.731362 4.077225,-4.100495 2.054821,-2.072928 4.117381,-4.137891 6.181397,-6.20166 1.326641,-1.331563 2.652827,-2.66358 3.978515,-3.996094 0.911304,-0.912973 0.911304,-0.912973 1.841019,-1.84439 C 33.511969,59.589866 38.942003,53.474236 44,47 41.67104,44.641473 39.336019,42.289033 37,39.9375 36.351602,39.280723 35.703203,38.623945 35.035156,37.947266 31.8224,34.718605 28.579335,31.59051 25.121094,28.625 20.176463,24.362992 15.640421,19.711123 11.0625,15.0625 9.3681567,13.342811 7.6716672,11.625234 5.9726562,9.9101563 5.2328149,9.1587134 4.4929736,8.4072705 3.7307129,7.6330566 0.54504999,4.6271462 -0.3010258,7.154835 -3.0766602,9.8837891 Z" fill="#000600" transform="translate(1145,700)" id="path2230" />
-				<path d="m 0,0 c 23.76,0 47.52,0 72,0 0,22.44 0,44.88 0,68 C 48.24,68 24.48,68 0,68 0,45.56 0,23.12 0,0 Z m 4,4 c 0,19.8 0,39.6 0,60 20.79,0 41.58,0 63,0 C 67,44.2 67,24.4 67,4 46.21,4 25.42,4 4,4 Z" fill="#000001" transform="translate(1110,543)" id="path2231" />
-				<path d="m 0,0 c 23.76,0 47.52,0 72,0 0,22.44 0,44.88 0,68 C 48.24,68 24.48,68 0,68 0,45.56 0,23.12 0,0 Z m 5,4 c 0,19.8 0,39.6 0,60 20.79,0 41.58,0 63,0 C 68,44.2 68,24.4 68,4 47.21,4 26.42,4 5,4 Z" fill="#000002" transform="translate(849,543)" id="path2232" />
-				<path d="m 0,0 c 2.2758032,2.2758032 2.8164233,3.8580891 3.8793945,6.8769531 0.3602225,1.0144519 0.720445,2.0289038 1.0915833,3.0740967 0.3834054,1.0989662 0.7668109,2.1979322 1.1618347,3.3302002 0.3966989,1.124425 0.7933978,2.24885 1.2021179,3.407349 0.8381936,2.379694 1.6735769,4.76038 2.5063782,7.141967 1.2791864,3.656558 2.5678164,7.309681 3.8579104,10.962403 0.811759,2.308396 1.622975,4.616984 2.433593,6.925781 0.387454,1.098966 0.774908,2.197932 1.174103,3.3302 0.530878,1.521678 0.530878,1.521678 1.07248,3.074097 0.313735,0.895536 0.627471,1.791072 0.950714,2.713745 C 20,53 20,53 20,55 c -12.87,0 -25.74,0 -39,0 2.250117,-10.125526 2.250117,-10.125526 3.679932,-14.029053 0.316953,-0.873778 0.633906,-1.747556 0.960464,-2.647812 0.336521,-0.90972 0.673042,-1.819441 1.01976,-2.756729 0.349935,-0.959148 0.699871,-1.918296 1.06041,-2.906509 1.108702,-3.034427 2.225334,-6.065868 3.341934,-9.097397 0.7537476,-2.061669 1.5070076,-4.123516 2.2597656,-6.185547 2.748712,-7.5122044 2.748712,-7.5122044 4.1271973,-11.253662 0.2759852,-0.7500682 0.5519705,-1.5001364 0.836319,-2.2729339 C -1,2 -1,2 0,0 Z" fill="#00007c" transform="translate(915,927)" id="path2233" />
-				<path d="m 0,0 c 7.4341898,5.9751432 11.522968,14.323146 13.714844,23.492187 0.380974,3.8653 0.375953,7.681712 0.3125,11.5625 0.0032,0.989356 0.0064,1.978711 0.0098,2.998047 -0.08207,11.2429 -2.843781,21.7382 -10.1074215,30.623047 -6.4736633,6.181219 -14.3445355,8.960215 -23.2148435,9.316406 -9.582134,-0.396673 -17.174064,-3.558376 -24.0625,-10.25 -9.147331,-10.622706 -10.900342,-25.717699 -9.9375,-39.25 C -52.31118,18.149485 -47.906104,7.9430491 -40.148437,0.890625 -28.326979,-7.9816646 -12.320159,-8.1291988 0,0 Z M -42.816406,9.2382813 C -50.530107,21.07553 -50.8986,35.811523 -48.636719,49.382812 c 2.531002,9.128912 6.754857,16.332074 15.101563,21.109375 7.528085,3.790365 16.095012,4.634674 24.2187497,2.058594 7.6473514,-3.673953 13.949147,-9.19023 16.8530274,-17.374756 2.0058925,-6.952692 2.7228309,-13.397063 2.6782229,-20.621338 -0.0043,-1.051069 -0.0085,-2.102138 -0.01294,-3.185058 C 10.02737,23.419988 9.0452685,17.314421 4.7148437,10.492188 3.6939063,8.8215625 3.6939063,8.8215625 2.6523438,7.1171875 -5.2256255,0.07730005 -13.207248,-2.5037285 -23.730469,-2.0195313 c -8.159414,1.17459698 -13.949062,4.873064 -19.085937,11.2578126 z" fill="#0c0c0f" transform="translate(1126.2852,933.50781)" id="path2234" />
-				<path d="m 0,0 c 5.4810835,3.9452766 9.161071,8.5256346 12.390625,14.425781 0.340313,0.590391 0.680625,1.180782 1.03125,1.789063 3.848661,8.089316 3.119206,19.740373 0.53125,28.085937 -3.761176,8.824809 -10.9529583,15.988384 -19.5625,20.125 -0.639375,0.31711 -1.27875,0.634219 -1.9375,0.960938 -9.018238,3.723439 -20.366457,3.484183 -29.4375,0.101562 -10.245746,-4.969744 -17.304834,-12.541062 -21.625,-23.0625 -2.639871,-9.923958 -2.08427,-21.038973 3,-30 5.148722,-8.8171859 13.454061,-14.6308446 23,-17.9999997 C -20.737687,-8.3304979 -10.411979,-6.2814785 0,0 Z m -49.421875,10.238281 c -6.292061,9.168432 -7.456625,18.317172 -6.1875,29.1875 1.153071,3.773241 2.744962,6.775954 5,10 0.651621,0.964864 0.651621,0.964864 1.316406,1.949219 4.167332,5.473334 10.329038,9.847743 16.988282,11.6875 11.58074,1.560882 21.935355,1.53236 31.695312,-5.636719 C 6.6079976,50.969384 11.765357,43.241626 12.546875,33.472656 12.960443,23.615942 10.006268,15.690905 3.390625,8.4257813 2.8260156,7.7954297 2.2614062,7.1650781 1.6796875,6.515625 -4.8899054,-0.01238821 -13.639872,-2.6656273 -22.796875,-3.0117188 -34.15716,-2.423484 -41.533179,2.3495856 -49.421875,10.238281 Z" fill="#0a0000" transform="translate(902.60937,718.57422)" id="path2235" />
-				<path d="m 0,0 c 5.8049871,4.291544 10.172329,9.6233599 12.1875,16.617187 1.10857,8.071389 -0.349927,14.301541 -5,21 -5.0820618,5.863918 -11.6540031,9.455479 -19.335938,10.417969 -9.617633,0.385957 -16.213521,-1.644683 -23.539062,-7.855469 -6.062847,-7.31108 -7.614688,-12.506119 -7.527344,-21.910156 C -42.399169,10.865108 -38.562757,5.7294816 -32.875,1.1171875 -23.29941,-5.2425851 -9.9843562,-5.81326 0,0 Z m -35.1875,9.1171875 c -3.848247,4.8730525 -5.114696,8.9701845 -4.929687,15.1679685 0.92387,7.071165 4.951377,11.393814 10.207031,15.886719 6.683697,4.605154 14.314872,4.362341 22.097656,3.445312 6.98454762,-2.663749 12.0817285,-6.875716 15.25,-13.6875 C 8.9938052,23.056006 9.1466375,16.690369 5.5898437,10.4375 1.9350704,5.6934209 -3.1436302,2.4276213 -8.8125,0.6171875 c -11.339624,-1.20634294 -18.563846,-0.0195645 -26.375,8.5 z" fill="#07070b" transform="translate(1022.8125,631.38281)" id="path2236" />
-				<path d="m 0,0 c 2.2758032,2.2758032 2.8164233,3.8580891 3.8793945,6.8769531 0.3602225,1.0144519 0.720445,2.0289038 1.0915833,3.0740967 0.3834054,1.0989662 0.7668109,2.1979322 1.1618347,3.3302002 0.3966989,1.124425 0.7933978,2.24885 1.2021179,3.407349 0.8381936,2.379694 1.6735769,4.76038 2.5063782,7.141967 1.2791864,3.656558 2.5678164,7.309681 3.8579104,10.962403 0.811759,2.308396 1.622975,4.616984 2.433593,6.925781 0.387454,1.098966 0.774908,2.197932 1.174103,3.3302 0.530878,1.521678 0.530878,1.521678 1.07248,3.074097 0.313735,0.895536 0.627471,1.791072 0.950714,2.713745 C 20,53 20,53 20,55 c -12.87,0 -25.74,0 -39,0 2.250117,-10.125526 2.250117,-10.125526 3.679932,-14.029053 0.316953,-0.873778 0.633906,-1.747556 0.960464,-2.647812 0.336521,-0.90972 0.673042,-1.819441 1.01976,-2.756729 0.349935,-0.959148 0.699871,-1.918296 1.06041,-2.906509 1.108702,-3.034427 2.225334,-6.065868 3.341934,-9.097397 0.7537476,-2.061669 1.5070076,-4.123516 2.2597656,-6.185547 2.748712,-7.5122044 2.748712,-7.5122044 4.1271973,-11.253662 0.2759852,-0.7500682 0.5519705,-1.5001364 0.836319,-2.2729339 C -1,2 -1,2 0,0 Z m 0,11 c -9.1644647,19.579113 -9.1644647,19.579113 -14,40 9.24,0 18.48,0 28,0 C 13.170078,46.020466 11.974171,41.676464 10.277344,36.976562 10.012406,36.230387 9.7474686,35.484211 9.4745026,34.715424 8.6335171,32.35025 7.7856266,29.987621 6.9375,27.625 6.3634732,26.014486 5.7899007,24.403811 5.2167969,22.792969 3.8164477,18.860085 2.4099035,14.929468 1,11 0.67,11 0.34,11 0,11 Z" fill="#101011" transform="translate(915,927)" id="path2237" />
+			<g id="g4653-3" transform="matrix(0.15,0,0,0.15,984.42094,123.1831)">
+				<rect style="fill:#999999;stroke:#000000;stroke-width:1.00788;stroke-dasharray:none" id="rect5-9-89" width="516.03149" height="516.03149" x="-8438.4531" y="310.80096" />
+				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:2.01575;stroke-dasharray:none" id="rect6-4-34" width="425.89191" height="511.41724" x="-8393.3828" y="315.41519" />
+				<rect style="fill:#000000;stroke:#000000;stroke-width:0.946004" id="rect1-46" width="140.27228" height="465.41647" x="-8249.0615" y="358.54968" />
+				<rect style="fill:#000080;stroke:#000000;stroke-width:2.23792" id="rect2-8-0" width="128.99028" height="448.24347" x="-8243.6553" y="367.13644" />
+				<text xml:space="preserve" style="font-size:35.5556px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:#000000;stroke-width:1.00788;stroke-dasharray:none" x="-8240.8506" y="611.16693" id="text2-8-66">
+					<tspan sodipodi:role="line" id="tspan2-2-184" style="font-size:35.5556px;fill:#ffffff;stroke-width:1.00788;stroke-dasharray:none" x="-8240.8506" y="611.16693">VACON</tspan>				
+				</text>
+				<rect style="fill:#1a1a1a;stroke:#000000;stroke-width:0.974276;stroke-dasharray:none" id="rect3-4-96" width="102.0302" height="114.26939" x="-8231.4336" y="-494.55524" transform="scale(1,-1)" />
+				<ellipse style="fill:#999999;stroke:#000000;stroke-width:2.21938;stroke-dasharray:none" id="path3-8-7-3" cx="-8180.4185" cy="452.87723" rx="18.900024" ry="17.731871" />
+				<rect style="fill:#999999;stroke:#000000;stroke-width:1.00788;stroke-dasharray:none" id="rect4-5-78" width="78.415924" height="25.507549" x="-8219.627" y="390.91193" />
+				<rect style="fill:#ff0000;stroke:#000000;stroke-width:0.364226;stroke-dasharray:none" id="rect4-2-8" width="16.517069" height="15.814837" x="-8219.4336" y="466.29266" rx="10.534181" ry="20.334166" />
+				<rect style="fill:#00ff00;stroke:#000000;stroke-width:0.288346;stroke-dasharray:none" id="rect4-2-5-2" width="15.118111" height="15.118111" x="-5560.5381" y="5976.2549" transform="rotate(43.808547)" />
+				<rect style="fill:#000080;stroke:#000000;stroke-width:0.333907;stroke-dasharray:none" id="rect4-8-9" width="17.577181" height="12.489963" x="-8219.9639" y="426.96573" />
+				<path style="fill:#000080;stroke:#000000;stroke-width:0.331298;stroke-dasharray:none" id="rect4-8-3-13" width="17.440001" height="12.392385" x="216.78232" y="232.12988" sodipodi:type="rect" inkscape:path-effect="#path-effect2-00" d="m 225.50232,232.12988 c 4.83088,0 8.72,2.7635 8.72,6.1962 0,3.43269 -3.88912,6.19619 -8.72,6.19619 -4.83088,0 -8.72,-2.7635 -8.72,-6.19619 0,-3.4327 3.88912,-6.1962 8.72,-6.1962 z" rx="20" ry="20" transform="matrix(1.1300102,0,0,1.5928389,-8435.225,73.264291)" />
+				<rect style="fill:#000080;stroke:#000000;stroke-width:0.333907;stroke-dasharray:none" id="rect4-8-2-5" width="17.577181" height="12.489963" x="-8158.4497" y="426.96573" />
 			</g>
 			<g transform="translate(-281.04465,231.96662)">
 				<rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.929195;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="72.470802" height="11.770805" x="1.8645972" y="0.56459749" rx="1.9071265" ry="1.8108932" />
@@ -4283,7 +4262,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-276" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="153 HP" voltage="440VAC" equipment_details="40 HP Drive Motor w/ Frequency Inveter Fixed Type 440V" vfd_brand_model="VACON" vfd_location="NEW PLATFORM" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-276" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="153 HP" voltage="440VAC" equipment_details="40 HP Drive Motor w/ Frequency Inveter Fixed Type 440V" vfd_brand_model="VACON" vfd_location="NEW PLATFORM" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,744.37091,195.6468)" class="machine" id="machine-276">
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="504.12241" height="78.592567" x="-1165.1102" y="403.10132" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="121.98047" height="28.317125" x="-1028.2211" y="481.86887" rx="7.5590553" ry="7.5590553" />
@@ -4410,7 +4389,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-268" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="203 HP" voltage="440VAC" equipment_details="40 HP DRIVE MOTOR" vfd_brand_model="TECO A510" vfd_location="NEW PLATFORM" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-268" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="203 HP" voltage="440VAC" equipment_details="40 HP DRIVE MOTOR" vfd_brand_model="TECO A510" vfd_location="NEW PLATFORM" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-3129.4822,-733.73676)" class="vfd" id="vfd-268">
 			<g inkscape:label="Layer 1" id="layer1-80-4-8-5" transform="matrix(0.1511811,0,0,0.1511811,3529.192,1166.0865)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -4516,7 +4495,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-269" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="440VAC" equipment_details="40 HP DRIVE MOTOR" vfd_brand_model="TECO A510" vfd_location="NEW PLATFORM" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-269" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="440VAC" equipment_details="40 HP DRIVE MOTOR" vfd_brand_model="TECO A510" vfd_location="NEW PLATFORM" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-3129.4822,-811.27885)" class="vfd" id="vfd-269">
 			<g inkscape:label="Layer 1" id="layer1-80-4-8-1" transform="matrix(0.1511811,0,0,0.1511811,3529.192,1166.0865)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -4622,7 +4601,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-251" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="175 HP" voltage="" equipment_details="150 HP Drive Motor with Inverter 4KW hydraulic pump motor" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 3" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-251" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="175 HP" voltage="" equipment_details="150 HP Drive Motor with Inverter 4KW hydraulic pump motor" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 3" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,939.05,112.4)" class="machine" id="machine-251">
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="504.12241" height="78.592567" x="-1165.1102" y="403.10132" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="121.98047" height="28.317125" x="-1028.2211" y="481.86887" rx="7.5590553" ry="7.5590553" />
@@ -4728,7 +4707,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-267" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="30 HP" voltage="" equipment_details="200 HP Drive Motor 20 HP Scraper motor w/ Inverter 3 HP" vfd_brand_model="HITACHI SJ700" vfd_location="EE ROOM 3" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-267" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="30 HP" voltage="" equipment_details="200 HP Drive Motor 20 HP Scraper motor w/ Inverter 3 HP" vfd_brand_model="HITACHI SJ700" vfd_location="EE ROOM 3" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-1435.2018,-401.34605)" class="vfd" id="vfd-267">
 			<g transform="translate(80.163703,-0.07555998)">
 				<rect style="fill:#999999;stroke:#000000;stroke-width:0.151181;stroke-dasharray:none" width="77.404724" height="77.404724" x="2335.7466" y="1209.3567" />
@@ -4836,7 +4815,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-260" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="" equipment_details="100 Hp drive motor/75Hp scraper motor w/ frequency  inverter 1 HP Hydraulic Pump Motor" vfd_brand_model="1. HITACHI SJ700 2. HITACHI SJ700" vfd_location="EE ROOM 3" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-260" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="40 HP" voltage="" equipment_details="100 Hp drive motor/75Hp scraper motor w/ frequency  inverter 1 HP Hydraulic Pump Motor" vfd_brand_model="1. HITACHI SJ700 2. HITACHI SJ700" vfd_location="EE ROOM 3" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-1550.4204,-400.38366)" class="vfd" id="vfd-260-FR1">
 			<g transform="translate(80.163703,-0.07555998)">
 				<rect style="fill:#999999;stroke:#000000;stroke-width:0.151181;stroke-dasharray:none" width="77.404724" height="77.404724" x="2335.7466" y="1209.3567" />
@@ -4972,7 +4951,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-297" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="53 HP" voltage="220VAC" equipment_details="125KW/150 HP drive motor/63KW/75 HP tor w/ frequency  inverter 2.2KW/ 3HP Hydraulic Pump Motor" vfd_brand_model="1. HITACHI SH1 2. HITACHI SH1" vfd_location="EE ROOM 4" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-297" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="53 HP" voltage="220VAC" equipment_details="125KW/150 HP drive motor/63KW/75 HP tor w/ frequency  inverter 2.2KW/ 3HP Hydraulic Pump Motor" vfd_brand_model="1. HITACHI SH1 2. HITACHI SH1" vfd_location="EE ROOM 4" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2781.3495,-393.03477)" class="vfd" id="vfd-297-FR2">
 			<g inkscape:label="Layer 1" id="layer1-3-4-1" transform="matrix(0.1511811,0,0,0.1511811,3864.2497,1166.1919)">
 				<rect style="fill:#333333;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -5104,7 +5083,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-316" equipment_class="pe-ps" equipment_name="MIGTHY MILL" power_rating="53 HP" voltage="220VAC" equipment_details="50HP INOUE-NISSIE" vfd_brand_model="YASKAWA A1000" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="5" id="PE-PS-316" equipment_class="pe-ps" equipment_name="MIGTHY MILL" power_rating="53 HP" voltage="220VAC" equipment_details="50HP INOUE-NISSIE" vfd_brand_model="YASKAWA A1000" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(2167.0859,232.63397)" class="machine" id="machine-316">
 			<g inkscape:label="Layer 1" id="layer1-8-6" transform="matrix(0.75590552,0,0,0.75590552,-934.01402,660.93172)">
 				<rect style="fill:#f9f9f9;stroke:#000000;stroke-width:0.7925;stroke-linecap:round;stroke-opacity:1" width="33.506794" height="86.005547" x="1.224474" y="26.141033" rx="2.967747" ry="1.9046504" />
@@ -5192,7 +5171,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-319" equipment_class="pe-ps" equipment_name="MIGTHY MILL" power_rating="6 HP" voltage="220VAC" equipment_details="5HP INOUE-NISSIE" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="5" id="PE-PS-319" equipment_class="pe-ps" equipment_name="MIGTHY MILL" power_rating="6 HP" voltage="220VAC" equipment_details="5HP INOUE-NISSIE" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(2286.2212,229.84867)" class="machine" id="machine-319">
 			<g inkscape:label="Layer 1" id="layer1-8-6-6" transform="matrix(0.75590552,0,0,0.75590552,-934.01402,660.93172)">
 				<rect style="fill:#f9f9f9;stroke:#000000;stroke-width:0.7925;stroke-linecap:round;stroke-opacity:1" width="33.506794" height="86.005547" x="1.224474" y="26.141033" rx="2.967747" ry="1.9046504" />
@@ -5278,7 +5257,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-312" equipment_class="pe-ps" equipment_name="MIGTHY MILL" power_rating="30 HP" voltage="220VAC" equipment_details="20L Vessel Capacity 30HP W/Frequency Inverter" vfd_brand_model="VACON 0100-300088+2+SRBT+DPAD" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="5" id="PE-PS-312" equipment_class="pe-ps" equipment_name="MIGTHY MILL" power_rating="30 HP" voltage="220VAC" equipment_details="20L Vessel Capacity 30HP W/Frequency Inverter" vfd_brand_model="VACON 0100-300088+2+SRBT+DPAD" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(2432.4509,229.84867)" class="machine" id="machine-312">
 			<g inkscape:label="Layer 1" id="layer1-8-6-6-2" transform="matrix(0.75590552,0,0,0.75590552,-934.01402,660.93172)">
 				<rect style="fill:#f9f9f9;stroke:#000000;stroke-width:0.7925;stroke-linecap:round;stroke-opacity:1" width="33.506794" height="86.005547" x="1.224474" y="26.141033" rx="2.967747" ry="1.9046504" />
@@ -5364,7 +5343,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-315" equipment_class="pe-ps" equipment_name="MIGTHY MILL" power_rating="53 HP" voltage="220VAC" equipment_details="50HP INOUE-NISSIE" vfd_brand_model="YASKAWA A1000" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="5" id="PE-PS-315" equipment_class="pe-ps" equipment_name="MIGTHY MILL" power_rating="53 HP" voltage="220VAC" equipment_details="50HP INOUE-NISSIE" vfd_brand_model="YASKAWA A1000" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(2167.0859,55.631472)" class="machine" id="machine-315">
 			<g inkscape:label="Layer 1" id="layer1-8-3" transform="matrix(0.75590552,0,0,0.75590552,-934.01402,660.93172)">
 				<rect style="fill:#f9f9f9;stroke:#000000;stroke-width:0.7925;stroke-linecap:round;stroke-opacity:1" width="33.506794" height="86.005547" x="1.224474" y="26.141033" rx="2.967747" ry="1.9046504" />
@@ -5452,7 +5431,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-318" equipment_class="pe-ps" equipment_name="SPIKE MILL" power_rating="" voltage="" equipment_details="50HP INOUE-NISSIE" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="5" id="PE-PS-318" equipment_class="pe-ps" equipment_name="SPIKE MILL" power_rating="" voltage="" equipment_details="50HP INOUE-NISSIE" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(2298.1405,56.156072)" class="machine" id="machine-318">
 			<g inkscape:label="Layer 1" id="layer1-8-6-6-6" transform="matrix(0.75590552,0,0,0.75590552,-936.01402,660.93172)">
 				<rect style="fill:#f9f9f9;stroke:#000000;stroke-width:0.7925;stroke-linecap:round;stroke-opacity:1" width="33.506794" height="86.005547" x="1.224474" y="26.141033" rx="2.967747" ry="1.9046504" />
@@ -5538,7 +5517,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-289" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="10 HP" voltage="440VAC" equipment_details="150 HP Drive Motor w/ Frequency Inveter 3 HP Hydraulic" vfd_brand_model="HITACHI SJ700N" vfd_location="EE ROOM 2" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-289" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="10 HP" voltage="440VAC" equipment_details="150 HP Drive Motor w/ Frequency Inveter 3 HP Hydraulic" vfd_brand_model="HITACHI SJ700N" vfd_location="EE ROOM 2" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,1815.9913,622.25778)" class="machine" id="machine-289">
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="504.12241" height="78.592567" x="-1165.1102" y="403.10132" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="121.98047" height="28.317125" x="-1028.2211" y="481.86887" rx="7.5590553" ry="7.5590553" />
@@ -5646,7 +5625,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-201" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="23 HP" voltage="220VAC" equipment_details="150 HP Drive Motor with Inverter 3 HP Hydraulic Pump Model:MHI-150 DESPA (Hold Type)" vfd_brand_model="VACON 0100-3L-0261-S" vfd_location="EE ROOM 2" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-201" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="23 HP" voltage="220VAC" equipment_details="150 HP Drive Motor with Inverter 3 HP Hydraulic Pump Model:MHI-150 DESPA (Hold Type)" vfd_brand_model="VACON 0100-3L-0261-S" vfd_location="EE ROOM 2" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,1904.0921,621.93498)" class="machine" id="machine-201">
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="504.12241" height="78.592567" x="-1165.1102" y="403.10132" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="121.98047" height="28.317125" x="-1028.2211" y="481.86887" rx="7.5590553" ry="7.5590553" />
@@ -5773,7 +5752,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-275" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="33 HP" voltage="220VAC" equipment_details="200 HP drive motor w/ inverter 3HP hydraulic pump motor" vfd_brand_model="HITACHI SJ700" vfd_location="EE ROOM 2" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-275" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="33 HP" voltage="220VAC" equipment_details="200 HP drive motor w/ inverter 3HP hydraulic pump motor" vfd_brand_model="HITACHI SJ700" vfd_location="EE ROOM 2" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,1809.3945,848.22998)" class="machine" id="machine-275">
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="504.12241" height="78.592567" x="-1165.1102" y="403.10132" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="121.98047" height="28.317125" x="-1028.2211" y="481.86887" rx="7.5590553" ry="7.5590553" />
@@ -5909,7 +5888,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-283" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="10 HP" voltage="440VAC" equipment_details="150 HP Drive Motor w/ Frequency Inveter 3 HP Hydraulic" vfd_brand_model="HITACHI SJ700N" vfd_location="EE ROOM 2" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="4" id="PE-PS-283" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="10 HP" voltage="440VAC" equipment_details="150 HP Drive Motor w/ Frequency Inveter 3 HP Hydraulic" vfd_brand_model="HITACHI SJ700N" vfd_location="EE ROOM 2" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.15,0,0,0.15,1902.854,848.2903)" class="machine" id="machine-283" inkscape:label="machine-283">
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="504.12241" height="78.592567" x="-1165.1102" y="403.10132" rx="18.897638" ry="18.897638" />
 			<rect style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="121.98047" height="28.317125" x="-1028.2211" y="481.86887" rx="7.5590553" ry="7.5590553" />
@@ -6017,7 +5996,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-311" equipment_class="pe-ps" equipment_name="MIGTHY MILL" power_rating="30 HP" voltage="220VAC" equipment_details="20L Vessel Capacity 30HP W/Frequency Inverter" vfd_brand_model="TECO A510" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="5" id="PE-PS-311" equipment_class="pe-ps" equipment_name="MIGTHY MILL" power_rating="30 HP" voltage="220VAC" equipment_details="20L Vessel Capacity 30HP W/Frequency Inverter" vfd_brand_model="TECO A510" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(2436.4509,-107.96943)" class="machine" id="machine-311">
 			<g inkscape:label="Layer 1" id="layer1-8-6-6-61" transform="matrix(0.75590552,0,0,0.75590552,-934.01402,660.93172)">
 				<rect style="fill:#f9f9f9;stroke:#000000;stroke-width:0.7925;stroke-linecap:round;stroke-opacity:1" width="33.506794" height="86.005547" x="1.224474" y="26.141033" rx="2.967747" ry="1.9046504" />
@@ -6077,44 +6056,21 @@
 			</g>
 		</g>
 		<g transform="translate(830.31334,559.21942)" class="vfd" id="vfd-311">
-			<g transform="matrix(0.04,0,0,0.04,-281.42464,169.58619)">
-				<path d="m 0,0 c 639.87,0 1279.74,0 1939,0 0,639.87 0,1279.74 0,1939 -639.87,0 -1279.74,0 -1939,0 C 0,1299.13 0,659.26 0,0 Z" fill="#4c4c4c" id="path2282" />
-				<path d="m 0,0 c 175.23,0 350.46,0 531,0 0,456.39 0,912.78 0,1383 -175.23,0 -350.46,0 -531,0 C 0,926.61 0,470.22 0,0 Z" fill="#00007f" transform="translate(750,278)" id="path2283" />
-				<path d="m 0,0 c 48.51,0 97.02,0 147,0 0,635.91 0,1271.82 0,1927 -48.51,0 -97.02,0 -147,0 C 0,1291.09 0,655.18 0,0 Z" fill="#656565" transform="translate(1783,7)" id="path2284" />
-				<path d="m 0,0 c 48.51,0 97.02,0 147,0 0,635.91 0,1271.82 0,1927 -48.51,0 -97.02,0 -147,0 C 0,1291.09 0,655.18 0,0 Z" fill="#656565" transform="translate(12,7)" id="path2285" />
-				<path d="m 0,0 c 127.05,0 254.1,0 385,0 0,155.43 0,310.86 0,471 -127.05,0 -254.1,0 -385,0 C 0,315.57 0,160.14 0,0 Z" fill="#191919" transform="translate(815,341)" id="path2286" />
-				<path d="m 0,0 c 639.87,0 1279.74,0 1939,0 0,639.87 0,1279.74 0,1939 -639.87,0 -1279.74,0 -1939,0 C 0,1299.13 0,659.26 0,0 Z m 164,4 c 0,637.23 0,1274.46 0,1931 532.62,0 1065.24,0 1614,0 0,-637.23 0,-1274.46 0,-1931 C 1245.38,4 712.76,4 164,4 Z M 12,7 c 0,635.91 0,1271.82 0,1927 48.51,0 97.02,0 147,0 C 159,1298.09 159,662.18 159,7 110.49,7 61.98,7 12,7 Z m 1771,0 c 0,635.91 0,1271.82 0,1927 48.51,0 97.02,0 147,0 0,-635.91 0,-1271.82 0,-1927 -48.51,0 -97.02,0 -147,0 z" fill="#030303" id="path2287" />
-				<path d="m 0,0 c 95.37,0 190.74,0 289,0 0,41.91 0,83.82 0,127 -95.37,0 -190.74,0 -289,0 C 0,85.09 0,43.18 0,0 Z" fill="#989898" transform="translate(863,399)" id="path2288" />
-				<path d="m 0,0 c 175.23,0 350.46,0 531,0 0,456.39 0,912.78 0,1383 -175.23,0 -350.46,0 -531,0 C 0,926.61 0,470.22 0,0 Z m 8,8 c 0,451.11 0,902.22 0,1367 169.95,0 339.9,0 515,0 C 523,923.89 523,472.78 523,8 353.05,8 183.1,8 8,8 Z" fill="#000002" transform="translate(750,278)" id="path2289" />
-				<path d="m 0,0 c 10.110161,8.6738989 17.411361,19.225241 22.117187,31.71875 0.318399,0.800508 0.636797,1.601016 0.964844,2.425781 5.64186,16.717584 2.14671,35.95521 -4.964844,51.574219 -11.1090793,20.72217 -29.503471,33.2061 -51.562499,39.9375 -21.158779,5.91137 -44.91039,2.21437 -64.1875,-7.75 -5.551108,-3.19067 -10.449238,-6.96345 -15.249998,-11.1875 -0.77344,-0.67805 -1.54688,-1.35609 -2.34375,-2.05469 -13.87796,-12.974937 -20.60668,-29.944485 -21.91016,-48.574216 -0.57835,-17.891492 5.57825,-34.651521 17.69141,-47.808594 1.82286,-1.8900594 3.68475,-3.7255149 5.5625,-5.5625 0.6948,-0.7270313 1.38961,-1.4540625 2.10547,-2.203125 C -81.778349,-28.961144 -30.956131,-24.49645 0,0 Z" fill="#cacaca" transform="translate(1062.8828,599.28125)" id="path2290" />
-				<path d="m 0,0 c 127.05,0 254.1,0 385,0 0,155.43 0,310.86 0,471 -127.05,0 -254.1,0 -385,0 C 0,315.57 0,160.14 0,0 Z m 3,4 c 0,153.12 0,306.24 0,464 124.74,0 249.48,0 378,0 0,-153.12 0,-306.24 0,-464 C 256.26,4 131.52,4 3,4 Z" fill="#000001" transform="translate(815,341)" id="path2291" />
-				<path d="m 0,0 c 0.99,0 1.98,0 3,0 0,637.23 0,1274.46 0,1931 -0.99,0 -1.98,0 -3,0 C 0,1293.77 0,656.54 0,0 Z" fill="#404040" transform="translate(4,4)" id="path2292" />
-				<path d="m 0,0 c 7.92,0 15.84,0 24,0 1.307109,2.5407422 1.307109,2.5407422 2.640625,5.1328125 C 32.791768,17.059509 38.970993,28.960372 45.475586,40.699707 50.821632,50.383223 55.861799,60.190708 61,70 61.33,46.9 61.66,23.8 62,0 c 5.28,0 10.56,0 16,0 0,33.33 0,66.66 0,101 -6.27,0 -12.54,0 -19,0 C 51.687779,87.417272 44.394323,73.82972 37.3125,60.125 31.744643,49.351885 25.984276,38.692556 20.122314,28.076904 19.039639,26.073354 18.01847,24.036939 17,22 16.67,48.07 16.34,74.14 16,101 10.72,101 5.44,101 0,101 0,67.67 0,34.34 0,0 Z" fill="#0b0b10" transform="translate(1170,919)" id="path2293" />
-				<path d="m 0,0 c 7.4341898,5.9751432 11.522968,14.323146 13.714844,23.492187 0.380974,3.8653 0.375953,7.681712 0.3125,11.5625 0.0032,0.989356 0.0064,1.978711 0.0098,2.998047 -0.08207,11.2429 -2.843781,21.7382 -10.1074215,30.623047 -6.4736633,6.181219 -14.3445355,8.960215 -23.2148435,9.316406 -9.582134,-0.396673 -17.174064,-3.558376 -24.0625,-10.25 -9.147331,-10.622706 -10.900342,-25.717699 -9.9375,-39.25 C -52.31118,18.149485 -47.906104,7.9430491 -40.148437,0.890625 -28.326979,-7.9816646 -12.320159,-8.1291988 0,0 Z" fill="#00007e" transform="translate(1126.2852,933.50781)" id="path2294" />
-				<path d="m 0,0 c 3.9994699,3.367738 7.8884453,6.7658406 11.558594,10.496094 0.798574,0.806308 1.597148,1.612617 2.419922,2.443359 1.635447,1.661428 3.270864,3.322886 4.90625,4.984375 4.317691,4.359442 8.697725,8.545624 13.353759,12.541748 2.359889,2.055704 4.566281,4.24243 6.761475,6.471924 0.763125,0.772148 1.52625,1.544297 2.3125,2.339844 C 41.869375,39.84582 42.42625,40.414297 43,41 29.567756,56.853672 14.742337,71.3815 0,86 -3.7771934,84.405726 -6.3670605,82.023555 -9.3554688,79.246094 -9.8733647,78.764906 -10.391261,78.283718 -10.92485,77.787949 c -5.945519,-5.552932 -11.789569,-11.21047 -17.571,-16.933701 -1.229175,-1.212326 -2.463723,-2.419225 -3.703125,-3.621094 -1.816849,-1.762502 -3.617067,-3.54053 -5.414306,-5.322998 -0.558109,-0.535439 -1.116218,-1.070878 -1.691239,-1.622543 C -40.825439,48.758057 -40.825439,48.758057 -43,46 c 0.233308,-3.826598 2.335813,-5.69997 4.968994,-8.30957 0.840796,-0.84057 1.681592,-1.681139 2.547867,-2.54718 0.913537,-0.898054 1.827075,-1.796108 2.768295,-2.721375 1.396229,-1.389861 1.396229,-1.389861 2.820664,-2.8078 2.470911,-2.459475 4.9507,-4.909806 7.432449,-7.358338 2.532384,-2.501658 5.056262,-5.011863 7.580872,-7.521362 C -9.9288605,9.8145199 -4.9674305,4.9042725 0,0 Z" fill="#00fc00" transform="translate(1146,706)" id="path2295" />
-				<path d="m 0,0 c 20.79,0 41.58,0 63,0 0,19.8 0,39.6 0,60 C 42.21,60 21.42,60 0,60 0,40.2 0,20.4 0,0 Z" fill="#00007f" transform="translate(1114,547)" id="path2296" />
-				<path d="m 0,0 c 20.79,0 41.58,0 63,0 0,19.8 0,39.6 0,60 C 42.21,60 21.42,60 0,60 0,40.2 0,20.4 0,0 Z" fill="#00007f" transform="translate(854,547)" id="path2297" />
-				<path d="m 0,0 c 8.1825426,7.0501371 13.261421,14.37593 14.34375,25.199219 0.400286,9.606857 -3.285468,17.413348 -9.21875,24.8125 -5.51351525,5.949836 -11.8538221,9.821704 -20.039063,10.347656 -11.365897,0.384068 -19.891593,-0.897079 -28.882812,-8.316406 -6.080921,-5.943758 -10.265117,-13.052498 -10.45874,-21.652344 0.02902,-10.681305 1.821088,-18.5626 9.39624,-26.5585937 C -32.294884,-7.6936634 -14.561704,-10.070526 0,0 Z" fill="#fd0000" transform="translate(900.875,721.98828)" id="path2298" />
-				<path d="m 0,0 c 98.34,0 196.68,0 298,0 0,44.55 0,89.1 0,135 -98.34,0 -196.68,0 -298,0 C 0,90.45 0,45.9 0,0 Z m 5,4 c 0,41.91 0,83.82 0,127 95.37,0 190.74,0 289,0 0,-41.91 0,-83.82 0,-127 C 198.63,4 103.26,4 5,4 Z" fill="#010101" transform="translate(858,395)" id="path2299" />
-				<path d="m 0,0 c 4.95,0 9.9,0 15,0 3.622561,8.5198607 6.932019,17.098253 10.054687,25.8125 0.469095,1.302657 0.93843,2.605226 1.40799,3.907715 0.978288,2.715496 1.954653,5.431672 2.929413,8.148437 1.2265,3.418352 2.456321,6.835495 3.687404,10.252198 C 38.459982,63.054883 43.795387,78.003582 49,93 45.7,93 42.4,93 39,93 37.494854,88.876859 35.996756,84.751193 34.5,80.625 33.856113,78.861563 33.856113,78.861563 33.199219,77.0625 32.793164,75.941016 32.387109,74.819531 31.96875,73.664062 31.591699,72.627173 31.214648,71.590283 30.826172,70.521973 30,68 30,68 30,66 c -14.85,0.33 -29.7,0.66 -45,1 -2.97,8.58 -5.94,17.16 -9,26 -2.97,0 -5.94,0 -9,0 1.446201,-7.46869 3.804218,-14.354106 6.472656,-21.46875 0.441942,-1.193148 0.883884,-2.386296 1.339218,-3.615601 1.174425,-3.168053 2.353699,-6.334207 3.53566,-9.49945 2.091164,-5.604583 4.168795,-11.214209 6.250122,-16.822449 0.677438,-1.821929 0.677438,-1.821929 1.368561,-3.680664 3.499629,-9.426474 6.9246235,-18.878431 10.3023529,-28.3492432 0.34635,-0.9691736 0.6926999,-1.9383472 1.0495453,-2.9368897 C -2.3796852,5.7778235 -2.0774857,4.9286938 -1.7661285,4.053833 -1,2 -1,2 0,0 Z" fill="#f8f8f8" transform="translate(908,923)" id="path2300" />
-				<path d="m 0,0 c 5.94,0 11.88,0 18,0 1.087969,2.1269531 2.175937,4.2539062 3.296875,6.4453125 C 28.320029,20.153384 35.36696,33.835118 42.794922,47.32959 46.339398,53.772182 49.820246,60.245561 53.25,66.75 c 0.478726,0.900732 0.957451,1.801465 1.450684,2.729492 0.43393,0.826612 0.867861,1.653223 1.314941,2.504883 0.384463,0.729287 0.768926,1.458574 1.165039,2.209961 C 58,76 58,76 58,78 c 0.99,-0.33 1.98,-0.66 3,-1 0.33,-25.41 0.66,-50.82 1,-77 2.64,0 5.28,0 8,0 0,30.69 0,61.38 0,93 -4.29,0 -8.58,0 -13,0 C 56.272969,91.594922 55.545937,90.189844 54.796875,88.742187 49.689737,78.898778 44.537582,69.088786 39.1875,59.375 33.663301,49.337477 28.389904,39.178247 23.162842,28.983887 20.166055,23.148314 17.143108,17.355031 13.845459,11.682861 13,10 13,10 13,8 11.35,8 9.7,8 8,8 8,36.05 8,64.1 8,93 5.36,93 2.72,93 0,93 0,62.31 0,31.62 0,0 Z" fill="#f9f9f9" transform="translate(1174,923)" id="path2301" />
-				<path d="m 0,0 c 9.4925194,6.5509212 15.309161,17.024246 17.492187,28.292969 2.152634,17.717833 0.862851,35.114368 -10.3945308,49.652343 -4.1445638,4.389805 -8.4540836,7.256375 -14.0429687,9.472657 -0.9783984,0.44666 -0.9783984,0.44666 -1.9765625,0.902343 -10.841686,4.405704 -24.212575,2.939989 -35.023437,-0.902343 -10.620145,-4.898385 -17.267371,-12.907665 -21.4375,-23.75 -4.815602,-14.079695 -4.87948,-33.737645 1.4375,-47.25 C -58.014648,4.6949196 -49.554977,-2.0454763 -37.1875,-6.1679687 -24.537325,-8.5040638 -11.015087,-6.6835314 0,0 Z m -49.945312,11.417969 c -8.253885,10.72575 -9.804201,22.752617 -9,36 1.667005,12.102198 4.794876,22.389742 14.488281,30.304687 7.829853,5.284847 16.192992,6.87845 25.511719,5.695313 7.609719,-1.719309 14.0795273,-4.836461 18.9999995,-11 C 8.7447046,57.923358 10.19908,42.180982 7.40625,25.558594 4.5894713,16.265631 -1.2918593,8.0537473 -9.9453125,3.4179688 -24.056112,-3.4429907 -39.554467,0.02978746 -49.945312,11.417969 Z" fill="#f8f8f8" transform="translate(1131.9453,927.58203)" id="path2302" />
-				<path d="m 0,0 c 5.8049871,4.291544 10.172329,9.6233599 12.1875,16.617187 1.10857,8.071389 -0.349927,14.301541 -5,21 -5.0820618,5.863918 -11.6540031,9.455479 -19.335938,10.417969 -9.617633,0.385957 -16.213521,-1.644683 -23.539062,-7.855469 -6.062847,-7.31108 -7.614688,-12.506119 -7.527344,-21.910156 C -42.399169,10.865108 -38.562757,5.7294816 -32.875,1.1171875 -23.29941,-5.2425851 -9.9843562,-5.81326 0,0 Z" fill="#00007e" transform="translate(1022.8125,631.38281)" id="path2303" />
-				<path d="m 0,0 c 14.645797,11.744649 24.32274,24.569924 29.5625,42.625 0.184739,0.617622 0.369478,1.235244 0.559814,1.871582 4.82643,17.320255 0.993786,35.874289 -7.387939,51.362793 C 10.895459,116.81489 -7.3629379,129.77539 -30.25,136.4375 c -22.322786,6.00858 -47.916354,2.56506 -67.855469,-8.85156 C -118.60352,115.23939 -131.32982,97.712016 -137.4375,74.625 c -4.06071,-18.611607 0.90927,-38.166138 11,-54 13.78443,-19.78715151 34.784642,-32.20534 58.317383,-36.622803 C -43.738325,-19.426076 -19.991415,-14.443925 0,0 Z m -114.4375,12.625 c -0.73863,0.718008 -1.47727,1.436016 -2.23828,2.175781 -11.42662,11.781617 -17.83551,28.15017 -18.13672,44.449219 0.0843,2.460065 0.20774,4.91918 0.375,7.375 0.0709,1.078945 0.1418,2.157891 0.21484,3.269531 2.03104,18.507531 12.86719,34.817309 26.78516,46.730469 19.716959,15.05769 42.496459,20.20764 67,18 21.705583,-3.5719 41.884447,-14.55654 55.222656,-32.26562 C 25.790219,85.42851 30.807333,65.756678 26.914062,45.664062 21.397769,24.68329 7.4215828,8.381273 -10.976563,-2.5546875 -16.598186,-5.5114332 -22.37687,-7.5188443 -28.4375,-9.375 c -1.357383,-0.4795313 -1.357383,-0.4795313 -2.742187,-0.96875 -29.299825,-9.172119 -62.442855,1.6618582 -83.257813,22.96875 z" fill="#070707" transform="translate(1060.4375,592.375)" id="path2304" />
-				<path d="M 0,0 C 1,1 1,1 1.0976562,3.2851563 1.0860547,4.2016797 1.0744531,5.1182031 1.0625,6.0625 1.0534766,6.9816016 1.0444531,7.9007031 1.0351562,8.8476563 1.0235547,9.5579297 1.0119531,10.268203 1,11 -2.2724721,9.8388002 -5.1044713,8.3480737 -8.0625,6.5625 -17.625615,1.2109553 -29.229366,-0.91182267 -39.953125,1.7265625 -49.818653,5.0420269 -56.149502,9.6675824 -61,19 c -1.254783,3.285872 -2.211602,6.574153 -3,10 -0.185625,0.795352 -0.37125,1.590703 -0.5625,2.410156 -2.149306,12.723127 -0.06843,27.229984 7.214844,38.042969 5.221673,6.449675 11.101023,10.789022 19.504883,11.808594 12.984084,0.970974 24.453956,-0.698244 35.3193355,-8.308594 C -1,72 -1,72 1,72 c 0,3.3 0,6.6 0,10 -17.381364,7.862409 -32.092979,10.546059 -51,5 -10.422193,-4.394222 -17.693011,-12.676898 -22,-23 -0.391875,-0.845625 -0.78375,-1.69125 -1.1875,-2.5625 C -77.218032,49.345905 -77.106913,31.164969 -72.257812,19.5 -71.842734,18.675 -71.427656,17.85 -71,17 c 0.435703,-0.886875 0.871406,-1.77375 1.320313,-2.6875 C -63.736264,3.3999851 -54.832268,-2.164179 -43.375,-6.3125 -28.408426,-9.5065858 -13.719291,-5.9388185 0,0 Z" fill="#f7f7f7" transform="translate(1046,928)" id="path2305" />
-				<path d="m 0,0 c 2.97,0 5.94,0 9,0 3.554773,8.2323922 6.712285,16.567658 9.665895,25.031408 0.733231,2.100742 1.470997,4.199845 2.209822,6.298624 1.831297,5.204919 3.655347,10.412369 5.479141,15.619919 1.550012,4.425052 3.10306,8.849015 4.660139,13.271586 0.720773,2.051073 1.437156,4.103642 2.153353,6.156316 C 35.512321,73.058769 38.004341,79.581355 41,86 41.370605,84.958115 41.741211,83.91623 42.123047,82.842773 51.964696,55.185467 61.936494,27.577321 72,0 c 2.97,0 5.94,0 9,0 -0.603072,3.3109077 -1.401279,6.3903999 -2.543701,9.5544434 -0.315584,0.8792866 -0.631167,1.7585736 -0.956314,2.6645046 -0.516262,1.421094 -0.516262,1.421094 -1.042954,2.870896 -0.36065,1.001093 -0.721301,2.002186 -1.09288,3.033615 -1.180259,3.272669 -2.365803,6.543394 -3.551651,9.814041 -0.813159,2.250427 -1.626146,4.500915 -2.438965,6.751465 C 62.334643,54.15755 55.195345,73.588763 48,93 43.05,93 38.1,93 33,93 29.442616,83.366627 25.890553,73.731323 22.345764,64.093307 20.390145,58.776381 18.432536,53.460197 16.472168,48.14502 14.283544,42.210027 12.100154,36.273129 9.9198303,30.335083 9.05596,27.984926 8.1903768,25.635397 7.3230896,23.286499 6.09889,19.969986 4.880782,16.651295 3.6640625,13.332031 3.2928478,12.330556 2.921633,11.32908 2.5391693,10.297256 2.2034944,9.3777873 1.8678195,8.4583182 1.5219727,7.5109863 1.2266666,6.7084895 0.93136047,5.9059927 0.62710571,5.0791779 0,3 0,3 0,0 Z" fill="#f7f7f7" transform="translate(788,923)" id="path2306" />
-				<path d="M 0,0 C 0,6.27 0,12.54 0,19 -4.7224053,18.055519 -6.2675311,17.344608 -10,14.6875 -20.176331,8.0667544 -30.910292,5.5802643 -43,7 c -7.365294,1.868971 -14.057643,6.643216 -18.316406,12.949219 -3.993118,7.499988 -5.029879,15.116443 -4.996094,23.488281 -0.01611,0.794707 -0.03223,1.589414 -0.04883,2.408203 -0.0072,8.876916 2.835004,19.165182 8.927734,25.880859 7.230945,6.567705 15.5583,8.730425 25.203125,8.613282 C -22.44561,79.310481 -13.67613,75.532133 -6.0507812,69.355469 -4,68 -4,68 0,68 0,73.94 0,79.88 0,86 -16.436501,94.965364 -33.406944,97.582072 -51.929687,94.304687 -58.170164,92.415078 -63.159694,89.330204 -68,85 -69.299375,83.855312 -69.299375,83.855312 -70.625,82.6875 -82.155069,69.640317 -84.722321,54.143853 -84.13623,37.190918 -83.233771,22.677169 -77.762239,10.748168 -67,1 -46.013871,-14.81391 -22.231876,-9.3498545 0,0 Z m -70,9 c -2.364701,3.177567 -4.236058,6.456866 -6,10 -0.416367,0.826289 -0.832734,1.652578 -1.261719,2.503906 -5.437272,13.106688 -4.335627,30.753112 0.121094,44.0625 4.716905,10.57166 11.723314,19.189254 22.636719,23.621094 C -36.465863,95.040718 -20.785955,91.4116 -4,84 c 0,-3.3 0,-6.6 0,-10 -1.98,0.99 -1.98,0.99 -4,2 -1.7658997,0.843738 -3.53714,1.676354 -5.3125,2.5 -0.903633,0.422813 -1.807266,0.845625 -2.738281,1.28125 -10.126936,4.184906 -21.996311,5.237097 -32.609375,2.15625 C -58.898997,77.174044 -64.108211,70.266224 -68.066406,59.871094 -69.274015,56.157319 -69.895165,52.892884 -70,49 -70.07541,47.53627 -70.07541,47.53627 -70.152344,46.042969 -70.499398,34.340294 -68.543916,22.254675 -60.5625,13.25 -59.716875,12.5075 -58.87125,11.765 -58,11 c 0.70125,-0.680625 1.4025,-1.36125 2.125,-2.0625 9.003201,-6.0673747 18.368212,-7.1050081 28.914063,-5.4648437 6.527829,1.4084593 11.944031,3.8345448 17.6835932,7.2226567 C -6.9576707,12.123667 -6.9576707,12.123667 -4,13 -4,9.7 -4,6.4 -4,3 -24.977013,-8.0606071 -52.704468,-9.9169883 -70,9 Z" fill="#09090c" transform="translate(1051,926)" id="path2307" />
-				<path d="m 0,0 c 5.94,0 11.88,0 18,0 1.483402,3.9984561 2.963091,7.9982241 4.4375,12 0.233381,0.633282 0.466761,1.266564 0.707214,1.919037 3.514149,9.55097 6.947272,19.129231 10.335755,28.725494 0.383269,1.08522 0.766539,2.170439 1.161422,3.288544 1.932048,5.474402 3.859244,10.950473 5.781693,16.428253 0.715532,2.031917 1.431106,4.063818 2.146728,6.095703 0.331828,0.949702 0.663656,1.899404 1.005539,2.877884 0.305131,0.865057 0.610261,1.730113 0.924637,2.621384 0.266605,0.760008 0.533209,1.520016 0.807892,2.303055 C 45.866297,77.998308 45.866297,77.998308 47,79 c 0.262294,-0.741211 0.524588,-1.482422 0.79483,-2.246094 2.498389,-7.059294 4.998234,-14.11807 7.499628,-21.1763 1.285273,-3.626832 2.570023,-7.253846 3.853491,-10.881317 C 74.396192,1.6038081 74.396192,1.6038081 76,0 c 2.864693,-0.07330331 5.698937,-0.09217831 8.5625,-0.0625 1.505124,0.01148886 3.010252,0.02261504 4.515381,0.03344727 C 90.37218,-0.01946533 91.666479,-0.00987793 93,0 87.84343,14.825652 82.573689,29.608603 77.25,44.375 c -0.391301,1.085864 -0.782602,2.171728 -1.185761,3.290497 -9.29114,25.778609 -9.29114,25.778609 -13.925933,38.476166 -0.686058,1.880415 -1.369728,3.761701 -2.053345,5.643005 -0.400576,1.093286 -0.801152,2.186572 -1.213867,3.312988 -0.341038,0.933362 -0.682075,1.866724 -1.033448,2.828369 C 57,100 57,100 56,101 c -1.488719,0.0867 -2.981445,0.10703 -4.472656,0.0977 -0.899121,-0.003 -1.798242,-0.006 -2.72461,-0.01 -1.418291,-0.0126 -1.418291,-0.0126 -2.865234,-0.0254 -0.949395,-0.005 -1.898789,-0.009 -2.876953,-0.0137 C 40.706969,101.037 38.353515,101.02052 36,101 35.414363,99.340131 35.414363,99.340131 34.816895,97.646729 32.923416,92.283965 31.025138,86.922907 29.125,81.5625 28.774516,80.573688 28.424032,79.584877 28.062927,78.566101 21.443543,59.909839 14.646469,41.321483 7.7661133,22.76001 7.3952661,21.756792 7.0244189,20.753574 6.642334,19.719955 5.9512195,17.850604 5.2580176,15.982022 4.5622559,14.114395 4.0985559,12.859183 4.0985559,12.859183 3.6254883,11.578613 3.3584207,10.859407 3.0913532,10.140201 2.8161926,9.3992004 1.7628157,6.302796 0.89852388,3.1448336 0,0 Z m 6,4 c 0.5795672,4.0219503 1.4523514,7.630922 2.8666992,11.4375 0.385193,1.04482 0.7703861,2.089641 1.1672518,3.166122 0.419343,1.120805 0.838686,2.24161 1.270737,3.396378 0.435577,1.177241 0.871154,2.354483 1.319931,3.567398 1.170953,3.162078 2.346487,6.322379 3.524127,9.481968 1.209148,3.247633 2.41225,6.497502 3.615658,9.747265 1.887558,5.09584 3.777734,10.190699 5.669678,15.284912 3.149501,8.485123 6.269412,16.98093 9.378418,25.480957 0.839839,2.292971 1.679682,4.58594 2.519531,6.878906 C 38.157676,94.69791 38.157676,94.69791 39,97 c 4.95,0 9.9,0 15,0 0.573311,-1.589414 1.146621,-3.178828 1.737305,-4.816406 2.425495,-6.722209 4.853565,-13.443486 7.282871,-20.164318 0.726133,-2.009063 1.452024,-4.018213 2.177914,-6.027363 6.074984,-16.810726 12.178426,-33.608398 18.599762,-50.290741 0.434091,-1.137598 0.868183,-2.275195 1.315429,-3.447266 0.369075,-0.955759 0.73815,-1.911518 1.118408,-2.89624 C 87.15492,6.9378883 87.15492,6.9378883 87,4 84.03,4 81.06,4 78,4 67.641374,32.657565 57.317412,61.327575 47,90 43.56715,81.987359 40.459798,73.917464 37.601562,65.683594 37.203514,64.547048 36.805466,63.410503 36.395355,62.239517 35.135228,58.640003 33.879801,55.038874 32.625,51.4375 25.890253,32.107966 25.890253,32.107966 18.960937,12.847656 18.67248,12.055321 18.384022,11.262986 18.086823,10.44664 16.998536,6.9580435 16.998536,6.9580435 15,4 13.48072,3.9282004 11.958325,3.9160799 10.4375,3.9375 9.1980664,3.9510352 9.1980664,3.9510352 7.9335937,3.9648438 6.9764648,3.9822461 6.9764648,3.9822461 6,4 Z" fill="#08080c" transform="translate(782,919)" id="path2308" />
-				<path d="m 0,0 c 0.83265381,0.00523682 1.6653076,0.01047363 2.5231934,0.01586914 0.8096118,0.0024976 1.6192236,0.0049951 2.4533691,0.0075684 1.0350366,0.009104 2.0700732,0.01820801 3.1364746,0.02758789 1.7727029,0.01148847 3.5454079,0.0226147 5.3181149,0.03344727 1.539795,0.0096842 3.07959,0.01936849 4.619385,0.02905273 C 23.742961,15.620131 29.426152,31.130043 35.085693,46.648682 c 0.50133,1.374461 1.002663,2.748922 1.503998,4.123382 2.029725,5.56504 4.059167,11.130183 6.087555,16.695709 1.269894,3.484261 2.540541,6.968247 3.811674,10.452055 0.475911,1.304783 0.95154,2.609668 1.426869,3.914662 0.656265,1.801686 1.313575,3.602991 1.97093,5.40428 0.556459,1.526398 0.556459,1.526398 1.124161,3.083633 0.684998,1.838984 1.409383,3.663842 2.174896,5.470795 0.864761,2.320327 0.864761,2.320327 0.864761,5.320332 -5.94,0 -11.88,0 -18,0 -2.97,-8.580005 -5.94,-17.160005 -9,-26.000005 -19.7999999,-0.495 -19.7999999,-0.495 -40,-1 -0.33,1.98 -0.66,3.96 -1,6 -0.489732,1.654785 -1.020712,3.297968 -1.59375,4.925782 -0.308086,0.878496 -0.616172,1.756992 -0.933594,2.662109 -0.481464,1.348682 -0.481464,1.348682 -0.972656,2.724609 -0.320976,0.918457 -0.641953,1.836914 -0.972656,2.783204 -2.391067,6.76802 -2.391067,6.76802 -3.527344,7.904301 -2.862676,0.0733 -5.700719,0.0924 -8.5625,0.0625 -0.806308,-0.005 -1.612617,-0.009 -2.443359,-0.0137 -1.998078,-0.0118 -3.996119,-0.0298 -5.994141,-0.0488 2.1813,-7.630989 4.752371,-15.082283 7.464844,-22.539067 0.429968,-1.188309 0.859935,-2.376618 1.302933,-3.600937 1.150456,-3.17676 2.303481,-6.35256 3.458191,-9.527775 0.713368,-1.962275 1.425792,-3.924891 2.137924,-5.887615 5.572373,-15.35641 11.162189,-30.706408 16.8861081,-46.007111 0.245798,-0.659214 0.4915961,-1.318429 0.7448425,-1.997619 C -6.2843065,9.7584152 -5.6092442,7.9651998 -4.9338379,6.1721191 -4.57,5.2058862 -4.2061621,4.2396533 -3.8312988,3.2441406 -2.5500506,0.14850013 -2.5500506,0.14850013 0,0 Z M 0.05053711,4.1135254 C -6.4922128,21.415867 -12.849657,38.781871 -19.12738,56.181763 c -1.637545,4.537982 -3.277071,9.075248 -4.91684,13.612426 -0.865409,2.394965 -1.730251,4.790135 -2.594421,7.185547 -0.39116,1.083135 -0.78232,2.16627 -1.185334,3.282227 -0.546451,1.515454 -0.546451,1.515454 -1.103942,3.061523 -0.9067,2.476373 -1.850673,4.934202 -2.80719,7.391602 -1.382601,3.2678 -1.382601,3.2678 -1.214356,6.398437 2.97,0 5.94,0 9,0 2.97,-8.58 5.94,-17.16 9,-26 22.2750001,-0.495 22.2750001,-0.495 45,-1 0.99,3.63 1.98,7.26 3,11 1.025583,2.922038 2.066081,5.805037 3.1875,8.6875 0.272637,0.713496 0.545274,1.426993 0.826172,2.16211 0.657446,1.718588 1.321176,3.43477 1.986328,5.15039 3.3,0 6.6,0 10,0 C 43.439606,80.958105 37.691697,64.852264 31.915527,48.755371 30.87321,45.850142 29.832957,42.944186 28.794434,40.037598 27.518563,36.466732 26.239313,32.897094 24.957663,29.328299 24.476946,27.988059 23.997361,26.647414 23.519007,25.30633 20.949636,18.106162 18.268364,11.050104 15.050537,4.1135254 c -4.95,0 -9.8999999,0 -14.99999989,0 z" fill="#05050b" transform="translate(907.94946,918.88647)" id="path2309" />
-				<path d="m 0,0 c 9.5366174,7.3769798 14.507705,19.443197 16.511719,31.023437 1.902607,16.554459 0.346753,33.683349 -9.5820315,47.636719 -5.3810582,6.599801 -11.1002525,10.871995 -19.0000005,14 -0.768281,0.318399 -1.536562,0.636797 -2.328125,0.964844 -11.900772,4.275609 -25.653842,2.94297 -37.132812,-2.03125 -12.542253,-6.485158 -19.021825,-16.055096 -23.777344,-29.097656 -4.13379,-15.39042 -3.272701,-34.385116 3.925782,-48.585938 6.611954,-11.1995086 14.463522,-18.2340378 27.015625,-21.6718747 0.757968,-0.1907813 1.515937,-0.3815625 2.296875,-0.5781251 0.621328,-0.186914 1.242656,-0.3738281 1.882812,-0.5664062 C -25.749352,-11.86314 -12.06467,-7.80789 0,0 Z m -62.042969,6.7304687 c -8.54417,10.4126413 -11.386737,21.5498743 -11.277343,34.8046873 -0.0077,0.929414 -0.01547,1.858828 -0.02344,2.816406 0.03857,13.827874 3.2604,27.258264 13.273438,37.308594 11.257119,9.275867 24.739527,11.358868 39,10 11.5144968,-2.386494 20.22039372,-8.442409 26.9999995,-18 C 14.591074,58.582927 14.724513,40.749212 10.964844,24.136719 7.9932152,14.156532 2.3827076,5.7467215 -6.4882812,0.12890625 -24.114521,-9.2717549 -47.761687,-8.2578072 -62.042969,6.7304687 Z" fill="#07070c" transform="translate(1137.0703,926.33984)" id="path2310" />
-				<path d="M 0,0 C 2.9183422,1.3148357 4.9492093,2.7163328 7.171875,5.0117187 7.7545313,5.605332 8.3371875,6.1989453 8.9375,6.8105469 9.535625,7.4299414 10.13375,8.0493359 10.75,8.6875 14.282793,12.325808 17.810959,15.887352 21.671875,19.179687 27.587338,24.278015 33.00328,29.897479 38.5,35.4375 c 1.119556,1.124583 2.239346,2.248934 3.359375,3.373047 C 44.575615,41.537693 47.288683,44.267959 50,47 c -3.662905,6.297832 -8.821687,11.055816 -13.980469,16.140625 -0.978889,0.97261 -1.957259,1.945743 -2.935135,2.919373 -2.561587,2.548352 -5.128701,5.091055 -7.697494,7.632141 -4.122889,4.079573 -8.23889,8.166069 -12.351771,12.255729 -1.436281,1.426058 -2.875923,2.848658 -4.3159385,4.270943 C 7.8512657,91.080207 6.9833389,91.941603 6.0891113,92.829102 5.3217415,93.588218 4.5543716,94.347335 3.7637482,95.129456 1.9359578,96.887896 1.9359578,96.887896 1,99 -2.4743967,97.509838 -4.7036846,95.53399 -7.3537598,92.857422 -8.2046669,92.003136 -9.055574,91.14885 -9.9322662,90.268677 -10.842782,89.344701 -11.753299,88.420725 -12.691406,87.46875 c -0.950655,-0.95693 -1.90183,-1.913343 -2.853501,-2.869263 -2.500299,-2.51358 -4.994967,-5.032671 -7.488052,-7.553405 -3.992513,-4.035688 -7.991785,-8.06465 -11.994337,-12.090378 -1.395534,-1.405742 -2.787485,-2.815039 -4.179384,-4.224381 -0.847755,-0.854286 -1.69551,-1.708572 -2.568955,-2.588745 -0.745163,-0.753417 -1.490327,-1.506833 -2.258072,-2.283081 C -46.061314,53.837301 -46.061314,53.837301 -49,52 c 1.401202,-3.172834 3.051458,-5.29169 5.512451,-7.723633 1.077035,-1.071966 1.077035,-1.071966 2.175827,-2.165588 0.777048,-0.763588 1.554096,-1.527177 2.354691,-2.313904 0.801822,-0.79662 1.603644,-1.593241 2.429764,-2.414001 2.566891,-2.549081 5.140343,-5.091403 7.714767,-7.632874 2.555744,-2.527998 5.109974,-5.057478 7.661209,-7.590027 1.586611,-1.574497 3.175887,-3.146316 4.76828,-4.714966 4.13449,-4.097691 8.0870913,-8.2792651 11.8648988,-12.7091061 C -3.0734587,3.0839971 -1.5698999,1.5323931 0,0 Z m -3.0766602,9.8837891 c -1.2960667,1.2719719 -1.2960667,1.2719719 -2.6183166,2.5696409 -0.9385483,0.928024 -1.8770966,1.856049 -2.8440857,2.812195 -0.4747313,0.469408 -0.9494625,0.938815 -1.4385796,1.422447 -2.5113869,2.484637 -5.0190709,4.972951 -7.5243109,7.463783 -2.593909,2.577246 -5.201562,5.140112 -7.812479,7.700108 -2.000174,1.966587 -3.989283,3.944086 -5.975557,5.924702 -1.422902,1.412884 -2.857874,2.813578 -4.292927,4.214119 -0.85774,0.86059 -1.715481,1.72118 -2.599213,2.607849 -0.763095,0.755008 -1.526189,1.510016 -2.312408,2.287903 -1.718125,1.960529 -1.718125,1.960529 -1.440293,4.170059 1.086908,2.259557 2.294662,3.670797 4.074234,5.439255 0.661264,0.664265 1.322528,1.32853 2.00383,2.012924 0.719725,0.707378 1.43945,1.414756 2.180985,2.14357 1.108531,1.105721 1.108531,1.105721 2.239456,2.23378 1.566021,1.559297 3.135636,3.114991 4.708542,4.667343 2.395501,2.364507 4.780321,4.739364 7.16333,7.116455 1.524773,1.515595 3.050145,3.030589 4.576172,4.544922 0.709603,0.705354 1.419207,1.410707 2.150314,2.137436 C -9.0314601,85.104769 -5.1639128,88.647487 -1,92 c 2.8401531,-1.291788 4.8969839,-2.647831 7.0969238,-4.854004 0.5777266,-0.57465 1.1554532,-1.1493 1.7506867,-1.741363 0.6136088,-0.620795 1.2272177,-1.241589 1.8594208,-1.881196 0.9654297,-0.966117 0.9654297,-0.966117 1.9503627,-1.951751 1.361449,-1.364467 2.720469,-2.731362 4.077225,-4.100495 2.054821,-2.072928 4.117381,-4.137891 6.181397,-6.20166 1.326641,-1.331563 2.652827,-2.66358 3.978515,-3.996094 0.911304,-0.912973 0.911304,-0.912973 1.841019,-1.84439 C 33.511969,59.589866 38.942003,53.474236 44,47 41.67104,44.641473 39.336019,42.289033 37,39.9375 36.351602,39.280723 35.703203,38.623945 35.035156,37.947266 31.8224,34.718605 28.579335,31.59051 25.121094,28.625 20.176463,24.362992 15.640421,19.711123 11.0625,15.0625 9.3681567,13.342811 7.6716672,11.625234 5.9726562,9.9101563 5.2328149,9.1587134 4.4929736,8.4072705 3.7307129,7.6330566 0.54504999,4.6271462 -0.3010258,7.154835 -3.0766602,9.8837891 Z" fill="#000600" transform="translate(1145,700)" id="path2311" />
-				<path d="m 0,0 c 23.76,0 47.52,0 72,0 0,22.44 0,44.88 0,68 C 48.24,68 24.48,68 0,68 0,45.56 0,23.12 0,0 Z m 4,4 c 0,19.8 0,39.6 0,60 20.79,0 41.58,0 63,0 C 67,44.2 67,24.4 67,4 46.21,4 25.42,4 4,4 Z" fill="#000001" transform="translate(1110,543)" id="path2312" />
-				<path d="m 0,0 c 23.76,0 47.52,0 72,0 0,22.44 0,44.88 0,68 C 48.24,68 24.48,68 0,68 0,45.56 0,23.12 0,0 Z m 5,4 c 0,19.8 0,39.6 0,60 20.79,0 41.58,0 63,0 C 68,44.2 68,24.4 68,4 47.21,4 26.42,4 5,4 Z" fill="#000002" transform="translate(849,543)" id="path2313" />
-				<path d="m 0,0 c 2.2758032,2.2758032 2.8164233,3.8580891 3.8793945,6.8769531 0.3602225,1.0144519 0.720445,2.0289038 1.0915833,3.0740967 0.3834054,1.0989662 0.7668109,2.1979322 1.1618347,3.3302002 0.3966989,1.124425 0.7933978,2.24885 1.2021179,3.407349 0.8381936,2.379694 1.6735769,4.76038 2.5063782,7.141967 1.2791864,3.656558 2.5678164,7.309681 3.8579104,10.962403 0.811759,2.308396 1.622975,4.616984 2.433593,6.925781 0.387454,1.098966 0.774908,2.197932 1.174103,3.3302 0.530878,1.521678 0.530878,1.521678 1.07248,3.074097 0.313735,0.895536 0.627471,1.791072 0.950714,2.713745 C 20,53 20,53 20,55 c -12.87,0 -25.74,0 -39,0 2.250117,-10.125526 2.250117,-10.125526 3.679932,-14.029053 0.316953,-0.873778 0.633906,-1.747556 0.960464,-2.647812 0.336521,-0.90972 0.673042,-1.819441 1.01976,-2.756729 0.349935,-0.959148 0.699871,-1.918296 1.06041,-2.906509 1.108702,-3.034427 2.225334,-6.065868 3.341934,-9.097397 0.7537476,-2.061669 1.5070076,-4.123516 2.2597656,-6.185547 2.748712,-7.5122044 2.748712,-7.5122044 4.1271973,-11.253662 0.2759852,-0.7500682 0.5519705,-1.5001364 0.836319,-2.2729339 C -1,2 -1,2 0,0 Z" fill="#00007c" transform="translate(915,927)" id="path2314" />
-				<path d="m 0,0 c 7.4341898,5.9751432 11.522968,14.323146 13.714844,23.492187 0.380974,3.8653 0.375953,7.681712 0.3125,11.5625 0.0032,0.989356 0.0064,1.978711 0.0098,2.998047 -0.08207,11.2429 -2.843781,21.7382 -10.1074215,30.623047 -6.4736633,6.181219 -14.3445355,8.960215 -23.2148435,9.316406 -9.582134,-0.396673 -17.174064,-3.558376 -24.0625,-10.25 -9.147331,-10.622706 -10.900342,-25.717699 -9.9375,-39.25 C -52.31118,18.149485 -47.906104,7.9430491 -40.148437,0.890625 -28.326979,-7.9816646 -12.320159,-8.1291988 0,0 Z M -42.816406,9.2382813 C -50.530107,21.07553 -50.8986,35.811523 -48.636719,49.382812 c 2.531002,9.128912 6.754857,16.332074 15.101563,21.109375 7.528085,3.790365 16.095012,4.634674 24.2187497,2.058594 7.6473514,-3.673953 13.949147,-9.19023 16.8530274,-17.374756 2.0058925,-6.952692 2.7228309,-13.397063 2.6782229,-20.621338 -0.0043,-1.051069 -0.0085,-2.102138 -0.01294,-3.185058 C 10.02737,23.419988 9.0452685,17.314421 4.7148437,10.492188 3.6939063,8.8215625 3.6939063,8.8215625 2.6523438,7.1171875 -5.2256255,0.07730005 -13.207248,-2.5037285 -23.730469,-2.0195313 c -8.159414,1.17459698 -13.949062,4.873064 -19.085937,11.2578126 z" fill="#0c0c0f" transform="translate(1126.2852,933.50781)" id="path2315" />
-				<path d="m 0,0 c 5.4810835,3.9452766 9.161071,8.5256346 12.390625,14.425781 0.340313,0.590391 0.680625,1.180782 1.03125,1.789063 3.848661,8.089316 3.119206,19.740373 0.53125,28.085937 -3.761176,8.824809 -10.9529583,15.988384 -19.5625,20.125 -0.639375,0.31711 -1.27875,0.634219 -1.9375,0.960938 -9.018238,3.723439 -20.366457,3.484183 -29.4375,0.101562 -10.245746,-4.969744 -17.304834,-12.541062 -21.625,-23.0625 -2.639871,-9.923958 -2.08427,-21.038973 3,-30 5.148722,-8.8171859 13.454061,-14.6308446 23,-17.9999997 C -20.737687,-8.3304979 -10.411979,-6.2814785 0,0 Z m -49.421875,10.238281 c -6.292061,9.168432 -7.456625,18.317172 -6.1875,29.1875 1.153071,3.773241 2.744962,6.775954 5,10 0.651621,0.964864 0.651621,0.964864 1.316406,1.949219 4.167332,5.473334 10.329038,9.847743 16.988282,11.6875 11.58074,1.560882 21.935355,1.53236 31.695312,-5.636719 C 6.6079976,50.969384 11.765357,43.241626 12.546875,33.472656 12.960443,23.615942 10.006268,15.690905 3.390625,8.4257813 2.8260156,7.7954297 2.2614062,7.1650781 1.6796875,6.515625 -4.8899054,-0.01238821 -13.639872,-2.6656273 -22.796875,-3.0117188 -34.15716,-2.423484 -41.533179,2.3495856 -49.421875,10.238281 Z" fill="#0a0000" transform="translate(902.60937,718.57422)" id="path2316" />
-				<path d="m 0,0 c 5.8049871,4.291544 10.172329,9.6233599 12.1875,16.617187 1.10857,8.071389 -0.349927,14.301541 -5,21 -5.0820618,5.863918 -11.6540031,9.455479 -19.335938,10.417969 -9.617633,0.385957 -16.213521,-1.644683 -23.539062,-7.855469 -6.062847,-7.31108 -7.614688,-12.506119 -7.527344,-21.910156 C -42.399169,10.865108 -38.562757,5.7294816 -32.875,1.1171875 -23.29941,-5.2425851 -9.9843562,-5.81326 0,0 Z m -35.1875,9.1171875 c -3.848247,4.8730525 -5.114696,8.9701845 -4.929687,15.1679685 0.92387,7.071165 4.951377,11.393814 10.207031,15.886719 6.683697,4.605154 14.314872,4.362341 22.097656,3.445312 6.98454762,-2.663749 12.0817285,-6.875716 15.25,-13.6875 C 8.9938052,23.056006 9.1466375,16.690369 5.5898437,10.4375 1.9350704,5.6934209 -3.1436302,2.4276213 -8.8125,0.6171875 c -11.339624,-1.20634294 -18.563846,-0.0195645 -26.375,8.5 z" fill="#07070b" transform="translate(1022.8125,631.38281)" id="path2317" />
-				<path d="m 0,0 c 2.2758032,2.2758032 2.8164233,3.8580891 3.8793945,6.8769531 0.3602225,1.0144519 0.720445,2.0289038 1.0915833,3.0740967 0.3834054,1.0989662 0.7668109,2.1979322 1.1618347,3.3302002 0.3966989,1.124425 0.7933978,2.24885 1.2021179,3.407349 0.8381936,2.379694 1.6735769,4.76038 2.5063782,7.141967 1.2791864,3.656558 2.5678164,7.309681 3.8579104,10.962403 0.811759,2.308396 1.622975,4.616984 2.433593,6.925781 0.387454,1.098966 0.774908,2.197932 1.174103,3.3302 0.530878,1.521678 0.530878,1.521678 1.07248,3.074097 0.313735,0.895536 0.627471,1.791072 0.950714,2.713745 C 20,53 20,53 20,55 c -12.87,0 -25.74,0 -39,0 2.250117,-10.125526 2.250117,-10.125526 3.679932,-14.029053 0.316953,-0.873778 0.633906,-1.747556 0.960464,-2.647812 0.336521,-0.90972 0.673042,-1.819441 1.01976,-2.756729 0.349935,-0.959148 0.699871,-1.918296 1.06041,-2.906509 1.108702,-3.034427 2.225334,-6.065868 3.341934,-9.097397 0.7537476,-2.061669 1.5070076,-4.123516 2.2597656,-6.185547 2.748712,-7.5122044 2.748712,-7.5122044 4.1271973,-11.253662 0.2759852,-0.7500682 0.5519705,-1.5001364 0.836319,-2.2729339 C -1,2 -1,2 0,0 Z m 0,11 c -9.1644647,19.579113 -9.1644647,19.579113 -14,40 9.24,0 18.48,0 28,0 C 13.170078,46.020466 11.974171,41.676464 10.277344,36.976562 10.012406,36.230387 9.7474686,35.484211 9.4745026,34.715424 8.6335171,32.35025 7.7856266,29.987621 6.9375,27.625 6.3634732,26.014486 5.7899007,24.403811 5.2167969,22.792969 3.8164477,18.860085 2.4099035,14.929468 1,11 0.67,11 0.34,11 0,11 Z" fill="#101011" transform="translate(915,927)" id="path2318" />
+			<g transform="matrix(0.15,0,0,0.15,983.90584,122.1629)"><rect style="fill:#999999;stroke:#000000;stroke-width:1.00788;stroke-dasharray:none" id="rect5-9" width="516.03149" height="516.03149" x="-8438.4531" y="310.80096" />
+				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:2.01575;stroke-dasharray:none" id="rect6-4" width="425.89191" height="511.41724" x="-8393.3828" y="315.41519" />
+				<rect style="fill:#000000;stroke:#000000;stroke-width:0.946004" id="rect1" width="140.27228" height="465.41647" x="-8249.0615" y="358.54968" />
+				<rect style="fill:#000080;stroke:#000000;stroke-width:2.23792" id="rect2-8" width="128.99028" height="448.24347" x="-8243.6553" y="367.13644" />
+				<text xml:space="preserve" style="font-size:35.5556px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:#000000;stroke-width:1.00788;stroke-dasharray:none" x="-8240.8506" y="611.16693" id="text2-8">
+					<tspan sodipodi:role="line" id="tspan2-2" style="font-size:35.5556px;fill:#ffffff;stroke-width:1.00788;stroke-dasharray:none" x="-8240.8506" y="611.16693">VACON</tspan>
+				</text>
+				<rect style="fill:#1a1a1a;stroke:#000000;stroke-width:0.974276;stroke-dasharray:none" id="rect3-4" width="102.0302" height="114.26939" x="-8231.4336" y="-494.55524" transform="scale(1,-1)" />
+				<ellipse style="fill:#999999;stroke:#000000;stroke-width:2.21938;stroke-dasharray:none" id="path3-8-7" cx="-8180.4185" cy="452.87723" rx="18.900024" ry="17.731871" />
+				<rect style="fill:#999999;stroke:#000000;stroke-width:1.00788;stroke-dasharray:none" id="rect4-5" width="78.415924" height="25.507549" x="-8219.627" y="390.91193" />
+				<rect style="fill:#ff0000;stroke:#000000;stroke-width:0.364226;stroke-dasharray:none" id="rect4-2" width="16.517069" height="15.814837" x="-8219.4336" y="466.29266" rx="10.534181" ry="20.334166" />
+				<rect style="fill:#00ff00;stroke:#000000;stroke-width:0.288346;stroke-dasharray:none" id="rect4-2-5" width="15.118111" height="15.118111" x="-5560.5381" y="5976.2549" transform="rotate(43.808547)" />
+				<rect style="fill:#000080;stroke:#000000;stroke-width:0.333907;stroke-dasharray:none" id="rect4-8" width="17.577181" height="12.489963" x="-8219.9639" y="426.96573" />
+				<path style="fill:#000080;stroke:#000000;stroke-width:0.331298;stroke-dasharray:none" id="rect4-8-3" width="17.440001" height="12.392385" x="216.78232" y="232.12988" sodipodi:type="rect" inkscape:path-effect="#path-effect2" d="m 225.50232,232.12988 c 4.83088,0 8.72,2.7635 8.72,6.1962 0,3.43269 -3.88912,6.19619 -8.72,6.19619 -4.83088,0 -8.72,-2.7635 -8.72,-6.19619 0,-3.4327 3.88912,-6.1962 8.72,-6.1962 z" rx="20" ry="20" transform="matrix(1.1300102,0,0,1.5928389,-8435.225,73.264291)" />
+				<rect style="fill:#000080;stroke:#000000;stroke-width:0.333907;stroke-dasharray:none" id="rect4-8-2" width="17.577181" height="12.489963" x="-8158.4497" y="426.96573" />
 			</g>
 			<g transform="translate(-280.74464,232.66925)">
 				<rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.929195;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="72.470802" height="11.770805" x="1.8645972" y="0.56459749" rx="1.9071265" ry="1.8108932" />
@@ -6124,7 +6080,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-317" equipment_class="pe-ps" equipment_name="MIGTHY MILL" power_rating="6 HP" voltage="220VAC" equipment_details="5HP INOUE-NISSIE" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="5" id="PE-PS-317" equipment_class="pe-ps" equipment_name="MIGTHY MILL" power_rating="6 HP" voltage="220VAC" equipment_details="5HP INOUE-NISSIE" vfd_brand_model="TECO A510s" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(2329.9834,-107.96943)" class="machine" id="machine-317">
 			<g inkscape:label="Layer 1" id="layer1-8-6-6-5" transform="matrix(0.75590552,0,0,0.75590552,-934.01402,660.93172)">
 				<rect style="fill:#f9f9f9;stroke:#000000;stroke-width:0.7925;stroke-linecap:round;stroke-opacity:1" width="33.506794" height="86.005547" x="1.224474" y="26.141033" rx="2.967747" ry="1.9046504" />
@@ -6210,7 +6166,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-294" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="53 HP" voltage="220VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter 220V" vfd_brand_model="FRENIC ACE" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="3"  id="PE-PS-294" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="53 HP" voltage="220VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter 220V" vfd_brand_model="FRENIC ACE" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.56692914,0,0,0.56692914,1258.9148,207.987)" class="machine" id="machine-294">
 			<rect style="fill:#808080;stroke:#000000;stroke-width:1.23208;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="124.04993" height="20.176332" x="-0.22572976" y="-6.9640684" rx="5" ry="4.9999995" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1.23208;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="20.518824" height="7.5680861" x="86.998665" y="21.350763" rx="1" ry="1" />
@@ -6278,7 +6234,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-295" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="53 HP" voltage="220VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter 220V" vfd_brand_model="FRENIC ACE" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" id="PE-PS-295"  machine_type="3" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="53 HP" voltage="220VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter 220V" vfd_brand_model="FRENIC ACE" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.56692914,0,0,0.56692914,1106.3953,207.987)" class="machine" id="machine-295">
 			<rect style="fill:#808080;stroke:#000000;stroke-width:1.23208;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="124.04993" height="20.176332" x="-0.22572976" y="-6.9640684" rx="5" ry="4.9999995" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1.23208;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="20.518824" height="7.5680861" x="86.998665" y="21.350763" rx="1" ry="1" />
@@ -6346,7 +6302,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-285" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="10 HP" voltage="440VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter Fixed Type 220V" vfd_brand_model="ALTIVAR 320" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="3"  id="PE-PS-285" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="10 HP" voltage="440VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter Fixed Type 220V" vfd_brand_model="ALTIVAR 320" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.56692914,0,0,0.56692914,1566.8677,291.2794)" class="machine" id="machine-285">
 			<rect style="fill:#808080;stroke:#000000;stroke-width:1.23208;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="124.04993" height="20.176332" x="-0.22572976" y="-6.9640684" rx="5" ry="4.9999995" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1.23208;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="20.518824" height="7.5680861" x="86.998665" y="21.350763" rx="1" ry="1" />
@@ -6411,7 +6367,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-284" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="10 HP" voltage="440VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter Fixed Type 220V" vfd_brand_model="ALTIVAR 320" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="3"  id="PE-PS-284" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="10 HP" voltage="440VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter Fixed Type 220V" vfd_brand_model="ALTIVAR 320" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-208.33956,-818.76239)" class="vfd" id="vfd-284">
 			<g inkscape:label="Layer 1" id="layer1-69-50" transform="matrix(0.1511811,0,0,0.1511811,2002.8627,1105.82)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -6476,7 +6432,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-293" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="53 HP" voltage="220VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter 220V" vfd_brand_model="FRENIC ACE" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="3"  id="PE-PS-293" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="53 HP" voltage="220VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter 220V" vfd_brand_model="FRENIC ACE" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.56692914,0,0,0.56692914,1411.4343,207.987)" class="machine" id="machine-293">
 			<rect style="fill:#808080;stroke:#000000;stroke-width:1.23208;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="124.04993" height="20.176332" x="-0.22572976" y="-6.9640684" rx="5" ry="4.9999995" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1.23208;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="20.518824" height="7.5680861" x="86.998665" y="21.350763" rx="1" ry="1" />
@@ -6544,7 +6500,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-287" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter Fixed Type 220V" vfd_brand_model="ALTIVAR 320" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="3"  id="PE-PS-287" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter Fixed Type 220V" vfd_brand_model="ALTIVAR 320" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.56692914,0,0,0.56692914,1259.6778,290.6015)" class="machine" id="machine-287">
 			<rect style="fill:#808080;stroke:#000000;stroke-width:1.23208;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="124.04993" height="20.176332" x="-0.22572976" y="-6.9640684" rx="5" ry="4.9999995" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1.23208;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="20.518824" height="7.5680861" x="86.998665" y="21.350763" rx="1" ry="1" />
@@ -6609,7 +6565,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-288" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter Fixed Type 220V" vfd_brand_model="ALTIVAR 320" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="3"  id="PE-PS-288" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter Fixed Type 220V" vfd_brand_model="ALTIVAR 320" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-823.14152,-819.07352)" class="vfd" id="vfd-288">
 			<g inkscape:label="Layer 1" id="layer1-69-9" transform="matrix(0.1511811,0,0,0.1511811,2002.8627,1105.82)">
 				<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -6674,7 +6630,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-286" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter Fixed Type 220V" vfd_brand_model="ALTIVAR 320" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="3"  id="PE-PS-286" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="15 HP Drive Motor w/ Frequency Inveter Fixed Type 220V" vfd_brand_model="ALTIVAR 320" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="matrix(0.56692914,0,0,0.56692914,1412.1972,290.6015)" class="machine" id="machine-286">
 			<rect style="fill:#808080;stroke:#000000;stroke-width:1.23208;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="124.04993" height="20.176332" x="-0.22572976" y="-6.9640684" rx="5" ry="4.9999995" />
 			<rect style="fill:#4d4d4d;stroke:#000000;stroke-width:1.23208;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" width="20.518824" height="7.5680861" x="86.998665" y="21.350763" rx="1" ry="1" />
@@ -6739,7 +6695,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-280" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="30 HP Drive Motor w/ Frequency Inverter 3 HP Hydraulic" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-280" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="30 HP Drive Motor w/ Frequency Inverter 3 HP Hydraulic" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2145.9285,-1133.9087)" class="vfd" id="vfd-280">
 			<g inkscape:label="Layer 1" id="layer1-9-6-9-4-8" transform="matrix(0.1511811,0,0,0.1511811,3637.152,1166.0865)">
 				<rect style="fill:#f4eed7;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -6842,7 +6798,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-281" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="30 HP Drive Motor w/ Frequency Inverter 3 HP Hydraulic" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-281" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="30 HP Drive Motor w/ Frequency Inverter 3 HP Hydraulic" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2067.9509,-1133.9623)" class="vfd" id="vfd-281">
 			<g inkscape:label="Layer 1" id="layer1-9-6-9-4-81" transform="matrix(0.1511811,0,0,0.1511811,3637.152,1166.0865)">
 				<rect style="fill:#f4eed7;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -6945,7 +6901,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-279" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="30 HP Drive Motor w/ Frequency Inverter 3 HP Hydraulic" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-279" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="15 HP" voltage="220VAC" equipment_details="30 HP Drive Motor w/ Frequency Inverter 3 HP Hydraulic" vfd_brand_model="TDS V8" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(-2223.906,-1133.8551)" class="vfd" id="vfd-279">
 			<g inkscape:label="Layer 1" id="layer1-9-6-9-4-5" transform="matrix(0.1511811,0,0,0.1511811,3637.152,1166.0865)">
 				<rect style="fill:#f4eed7;stroke:#000000;stroke-width:1;stroke-dasharray:none" width="512" height="512" x="0" y="0" />
@@ -7048,7 +7004,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-213" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="60 HP" voltage="220VAC" equipment_details="30 HP 80A Drive Motor (Variable Speed) 1 HP Hydraulic" vfd_brand_model="VACON 0100-3L-0024-2" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="2" id="PE-PS-213" equipment_class="pe-ps" equipment_name="MIXER MACHINE" power_rating="60 HP" voltage="220VAC" equipment_details="30 HP 80A Drive Motor (Variable Speed) 1 HP Hydraulic" vfd_brand_model="VACON 0100-3L-0024-2" vfd_location="MEDIUM BATCH" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(1616.6134,-137.43243)" class="vfd" id="vfd-213">
 			<g transform="matrix(0.04,0,0,0.04,-281.42464,169.58619)">
 				<path d="m 0,0 c 639.87,0 1279.74,0 1939,0 0,639.87 0,1279.74 0,1939 -639.87,0 -1279.74,0 -1939,0 C 0,1299.13 0,659.26 0,0 Z" fill="#4c4c4c" id="path3378" />
@@ -7169,7 +7125,7 @@
 			</g>
 		</g>
 	</g>
-	<g class="pe-ps" id="PE-PS-320" equipment_class="pe-ps" equipment_name="GRINDING AND DISPERSING MACHINE" power_rating="40 HP" voltage="220VAC" equipment_details="40HP NETZSCH" vfd_brand_model="CHZIRI V- ZVF 300 - G030T2M" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
+	<g class="pe-ps" machine_type="5" id="PE-PS-320" equipment_class="pe-ps" equipment_name="GRINDING AND DISPERSING MACHINE" power_rating="40 HP" voltage="220VAC" equipment_details="40HP NETZSCH" vfd_brand_model="CHZIRI V- ZVF 300 - G030T2M" vfd_location="EE ROOM 1" transform="translate(-7.9298824,-22.650304)">
 		<g transform="translate(2167.6674,-106.12083)" class="machine" id="machine-320">
 			<g inkscape:label="Layer 1" id="layer1-8" transform="matrix(0.75590552,0,0,0.75590552,-934.01402,660.93172)">
 				<rect style="fill:#f9f9f9;stroke:#000000;stroke-width:0.7925;stroke-linecap:round;stroke-opacity:1" width="33.506794" height="86.005547" x="1.224474" y="26.141033" rx="2.967747" ry="1.9046504" />
