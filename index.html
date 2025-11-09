@@ -598,8 +598,8 @@
 
       .modal-content {
         background: linear-gradient(to bottom, #2d2d2d, #1f1f1f);
-        width: 90%;
-        max-width: 1000px;
+        width: 95%;
+        max-width: 1800px;
         border-radius: 10px;
         overflow: hidden;
         box-shadow: 0 0 30px rgba(255, 215, 0, 0.3);
@@ -1777,7 +1777,39 @@
   height: 300px;
   margin: 20px 0;
 }
+/* vfd Chart Container Styles */
 
+.chart-container-vfd {
+  background: var(--tertiary-dark);
+  border-radius: var(--border-radius);
+  padding: 20px;
+  border: 1px solid #444;
+  position: flex;
+  width: 100%;
+  height: 300px;
+  margin: 20px 0;
+}
+
+.chart-header {
+  margin-bottom: 15px;
+  border-bottom: 1px solid #444;
+  padding-bottom: 10px;
+}
+
+.chart-header h4 {
+  color: var(--primary-yellow);
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.date-selection {
+  background: var(--tertiary-dark);
+  padding: 15px;
+  border-radius: var(--border-radius);
+  border: 1px solid #444;
+}
 .chart-legend {
   display: flex;
   flex-wrap: wrap;
@@ -2211,6 +2243,60 @@
                 </div>
               </div>
             </div>
+            <!-- Historical Data Card -->
+            <div class="modal-card full-width">
+              <h3><i class="fas fa-chart-line"></i> HISTORICAL DATA & ANALYTICS</h3>
+              
+              <!-- Date Selection for Frequency History -->
+              <div class="date-selection" style="margin-bottom: 20px; display: flex; gap: 15px; align-items: center;">
+                <div class="form-group" style="margin: 0;">
+                  <label class="form-label">Select Date for Frequency History</label>
+                  <input type="date" id="frequencyHistoryDate" class="form-control" style="width: 200px;">
+                </div>
+                <button id="updateFrequencyHistory" class="btn btn-primary">
+                  <i class="fas fa-sync-alt"></i> Update Frequency History
+                </button>
+              </div>
+
+              <!-- Charts Grid -->
+              <div class="charts-grid-vfd" style="display: grid; grid-template-columns: 0fr fr; gap: 100px; margin-top: 20px;">
+                <!-- Running Time Chart -->
+                <div class="chart-container-vfd">
+                  <div class="chart-header">
+                    <h4><i class="fas fa-clock"></i> Running Time (Last 7 Days)</h4>
+                  </div>
+                  <canvas id="runningTimeChart" height="250"></canvas>
+                  <div class="chart-legend" id="runningTimeLegend"></div>
+                </div>
+
+                <!-- Power Consumption Chart -->
+                <div class="chart-container-vfd">
+                  <div class="chart-header">
+                    <h4><i class="fas fa-bolt"></i> Power Consumption (Last 7 Days)</h4>
+                  </div>
+                  <canvas id="powerConsumptionChart" height="250"></canvas>
+                  <div class="chart-legend" id="powerConsumptionLegend"></div>
+                </div>
+
+                <!-- Power Peak Chart -->
+                <div class="chart-container-vfd">
+                  <div class="chart-header">
+                    <h4><i class="fas fa-chart-bar"></i> Power Peak kWh (Daily - All Section Equipment)</h4>
+                  </div>
+                  <canvas id="powerPeakChart" height="250"></canvas>
+                </div>
+
+                <!-- Daily Frequency History Chart -->
+                <div class="chart-container-vfd">
+                  <div class="chart-header">
+                    <h4><i class="fas fa-wave-square"></i> Daily Frequency History</h4>
+                  </div>
+                  <canvas id="frequencyHistoryChart" height="250"></canvas>
+                  <div class="chart-legend" id="frequencyHistoryLegend"></div>
+                </div>
+              </div>
+            </div>
+
           </div>
           <div class="modal-footer">
             <div class="status-indicator">
@@ -2333,6 +2419,13 @@ let powerDonutChart = null;
 let utilizationDonutChart = null;
 let powerLineChart = null;
 let runningTimeChart = null;
+let powerConsumptionChart = null;
+let powerPeakChart = null;
+let frequencyHistoryChart = null;
+
+// VFD History Data
+let vfdHistoryData = null;
+
 // Fetch SCADA data from JSON file
 async function fetchScadaData() {
   try {
@@ -3195,7 +3288,8 @@ document.addEventListener("fullscreenchange", function() {
 document.addEventListener("DOMContentLoaded", async () => {
   // Load SCADA data first
   await fetchScadaData(); // Ensure this completes first
-  
+    // Load VFD history data
+  await fetchVFDHistoryData();
   // Then setup everything else
   setupTabs();
   populateSections();
@@ -4358,6 +4452,447 @@ function setupVFDItemTooltips() {
     showTooltip
   };
 }
+// Fetch VFD history data
+async function fetchVFDHistoryData() {
+  try {
+    const response = await fetch('DB/vfd_history_data.json');
+    if (!response.ok) {
+      throw new Error('Failed to load VFD history data');
+    }
+    vfdHistoryData = await response.json();
+    return vfdHistoryData;
+  } catch (error) {
+    console.error('Error loading VFD history data:', error);
+    // Return mock data structure as fallback
+    return { 
+      vfd_history: { 
+        sections: {},
+        section_power_peaks: {}
+      } 
+    };
+  }
+}
+
+// Initialize charts for VFD modal
+function initializeVFDCharts(equipmentData) {
+  if (!vfdHistoryData || !scadaData) return;
+  
+  const sectionName = findSectionForEquipment(equipmentData.equipment_id);
+  if (!sectionName) return;
+  
+  const sectionVFDs = findVFDsInSection(sectionName);
+  
+  // Destroy existing charts
+  destroyVFDCharts();
+  
+  // Create charts
+  createrunningTimeChart(sectionVFDs, sectionName);
+  createPowerConsumptionChart(sectionVFDs, sectionName);
+  createPowerPeakChart(sectionName);
+  createFrequencyHistoryChart(sectionVFDs, new Date().toISOString().split('T')[0]);
+  
+  // Setup date change listener
+  setupFrequencyDateListener(sectionVFDs);
+}
+
+// Find section for equipment
+function findSectionForEquipment(equipmentId) {
+  for (const section of scadaData.sections) {
+    if (section.equipment.some(eq => eq.equipment_id === equipmentId)) {
+      return section.name;
+    }
+  }
+  return null;
+}
+
+// Find all VFDs in a section
+function findVFDsInSection(sectionName) {
+  const section = scadaData.sections.find(s => s.name === sectionName);
+  return section ? section.equipment : [];
+}
+
+// Destroy existing charts
+function destroyVFDCharts() {
+  if (runningTimeChart) runningTimeChart.destroy();
+  if (powerConsumptionChart) powerConsumptionChart.destroy();
+  if (powerPeakChart) powerPeakChart.destroy();
+  if (frequencyHistoryChart) frequencyHistoryChart.destroy();
+}
+
+// Create Running Time Chart
+function createrunningTimeChart(vfds, sectionName) {
+  const ctx = document.getElementById('runningTimeChart');
+  if (!ctx) return;
+  
+  const colors = ['#ffbe0b', '#fb5607', '#ff006e', '#8338ec', '#3a86ff', '#4cc9f0', '#2a9d8f', '#e9c46a'];
+  
+  const datasets = vfds.map((vfd, index) => {
+    const history = vfdHistoryData.vfd_history.sections[sectionName]?.[vfd.equipment_id]?.running_time || [];
+    return {
+      label: vfd.equipment_id,
+      data: history.map(item => item.hours),
+      borderColor: colors[index % colors.length],
+      backgroundColor: colors[index % colors.length] + '20',
+      borderWidth: 2,
+      tension: 0.4,
+      fill: false
+    };
+  });
+  
+  const labels = vfds.length > 0 ? 
+    (vfdHistoryData.vfd_history.sections[sectionName]?.[vfds[0].equipment_id]?.running_time || []).map(item => 
+      new Date(item.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
+    ) : [];
+  
+  runningTimeChart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: labels,
+      datasets: datasets
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          display: false
+        },
+        tooltip: {
+          mode: 'index',
+          intersect: false
+        }
+      },
+      scales: {
+        x: {
+          grid: {
+            color: '#444'
+          },
+          ticks: {
+            color: '#aaa'
+          }
+        },
+        y: {
+          beginAtZero: true,
+          title: {
+            display: true,
+            text: 'Hours',
+            color: '#aaa'
+          },
+          grid: {
+            color: '#444'
+          },
+          ticks: {
+            color: '#aaa'
+          }
+        }
+      }
+    }
+  });
+  
+  createLegend('runningTimeLegend', vfds, colors, runningTimeChart);
+}
+
+// Create Power Consumption Chart
+function createPowerConsumptionChart(vfds, sectionName) {
+  const ctx = document.getElementById('powerConsumptionChart');
+  if (!ctx) return;
+  
+  const colors = ['#ffbe0b', '#fb5607', '#ff006e', '#8338ec', '#3a86ff', '#4cc9f0', '#2a9d8f', '#e9c46a'];
+  
+  const datasets = vfds.map((vfd, index) => {
+    const history = vfdHistoryData.vfd_history.sections[sectionName]?.[vfd.equipment_id]?.power_consumption || [];
+    return {
+      label: vfd.equipment_id,
+      data: history.map(item => item.kwh),
+      borderColor: colors[index % colors.length],
+      backgroundColor: colors[index % colors.length] + '20',
+      borderWidth: 2,
+      tension: 0.4,
+      fill: false
+    };
+  });
+  
+  const labels = vfds.length > 0 ? 
+    (vfdHistoryData.vfd_history.sections[sectionName]?.[vfds[0].equipment_id]?.power_consumption || []).map(item => 
+      new Date(item.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
+    ) : [];
+  
+  powerConsumptionChart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: labels,
+      datasets: datasets
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          display: false
+        }
+      },
+      scales: {
+        x: {
+          grid: {
+            color: '#444'
+          },
+          ticks: {
+            color: '#aaa'
+          }
+        },
+        y: {
+          beginAtZero: true,
+          title: {
+            display: true,
+            text: 'kWh',
+            color: '#aaa'
+          },
+          grid: {
+            color: '#444'
+          },
+          ticks: {
+            color: '#aaa'
+          }
+        }
+      }
+    }
+  });
+  
+  createLegend('powerConsumptionLegend', vfds, colors, powerConsumptionChart);
+}
+
+// Create Power Peak Chart
+function createPowerPeakChart(sectionName) {
+  const ctx = document.getElementById('powerPeakChart');
+  if (!ctx) return;
+  
+  const peakData = vfdHistoryData.vfd_history.section_power_peaks[sectionName] || [];
+  
+  const colors = ['#ffbe0b', '#fb5607', '#ff006e', '#8338ec', '#3a86ff', '#4cc9f0', '#2a9d8f', '#e9c46a'];
+  const labels = peakData.map(item => 
+    new Date(item.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
+  );
+  const data = peakData.map(item => item.peak_kwh);
+  
+  powerPeakChart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: labels,
+      datasets: [{
+        label: 'Peak Power Consumption',
+        data: data,
+        backgroundColor: '#ffbe0b',
+        borderColor: '#ffbe0b',
+        borderWidth: 1
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          display: false
+        }
+      },
+      scales: {
+        x: {
+          grid: {
+            color: '#444'
+          },
+          ticks: {
+            color: '#aaa'
+          }
+        },
+        y: {
+          beginAtZero: true,
+          title: {
+            display: true,
+            text: 'kWh',
+            color: '#aaa'
+          },
+          grid: {
+            color: '#444'
+          },
+          ticks: {
+            color: '#aaa'
+          }
+        }
+      }
+    }
+  });
+  createLegend('powerPeakHistoryLegend', sectionName, colors, frequencyHistoryChart);
+}
+
+// Create Frequency History Chart
+function createFrequencyHistoryChart(vfds, selectedDate) {
+  const ctx = document.getElementById('frequencyHistoryChart');
+  if (!ctx) return;
+  
+  const colors = ['#ffbe0b', '#fb5607', '#ff006e', '#8338ec', '#3a86ff', '#4cc9f0', '#2a9d8f', '#e9c46a'];
+  
+  const datasets = vfds.map((vfd, index) => {
+    const sectionName = findSectionForEquipment(vfd.equipment_id);
+    const frequencyData = vfdHistoryData.vfd_history.sections[sectionName]?.[vfd.equipment_id]?.frequency_history || [];
+    
+    // Filter data for selected date
+    const dailyData = frequencyData.filter(item => item.timestamp.startsWith(selectedDate));
+    
+    return {
+      label: vfd.equipment_id,
+      data: dailyData.map(item => item.frequency),
+      borderColor: colors[index % colors.length],
+      backgroundColor: colors[index % colors.length] + '20',
+      borderWidth: 2,
+      tension: 0.4,
+      fill: false
+    };
+  });
+  
+  const labels = vfds.length > 0 ? 
+    (vfdHistoryData.vfd_history.sections[findSectionForEquipment(vfds[0].equipment_id)]?.[vfds[0].equipment_id]?.frequency_history || [])
+      .filter(item => item.timestamp.startsWith(selectedDate))
+      .map(item => {
+        const time = item.timestamp.split(' ')[1];
+        return time.substring(0, 5); // Format as HH:MM
+      }) : [];
+  
+  frequencyHistoryChart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: labels,
+      datasets: datasets
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          display: false
+        }
+      },
+      scales: {
+        x: {
+          title: {
+            display: true,
+            text: 'Time',
+            color: '#aaa'
+          },
+          grid: {
+            color: '#444'
+          },
+          ticks: {
+            color: '#aaa'
+          }
+        },
+        y: {
+          beginAtZero: true,
+          title: {
+            display: true,
+            text: 'Frequency (Hz)',
+            color: '#aaa'
+          },
+          grid: {
+            color: '#444'
+          },
+          ticks: {
+            color: '#aaa'
+          }
+        }
+      }
+    }
+  });
+  
+  createLegend('frequencyHistoryLegend', vfds, colors, frequencyHistoryChart);
+}
+
+// Create legend for charts
+function createLegend(containerId, vfds, colors, chart) {
+  const container = document.getElementById(containerId);
+  if (!container) return;
+  
+  container.innerHTML = '';
+  
+  vfds.forEach((vfd, index) => {
+    const legendItem = document.createElement('div');
+    legendItem.className = 'legend-item active';
+    legendItem.setAttribute('data-index', index);
+    legendItem.innerHTML = `
+      <div class="legend-color" style="background-color: ${colors[index % colors.length]}"></div>
+      <div class="legend-text">${vfd.equipment_id}</div>
+    `;
+    
+    legendItem.addEventListener('click', () => {
+      const isActive = legendItem.classList.contains('active');
+      legendItem.classList.toggle('active');
+      
+      if (chart && chart.data) {
+        const meta = chart.getDatasetMeta(index);
+        if (meta) {
+          meta.hidden = isActive;
+          chart.update();
+        }
+      }
+    });
+    
+    container.appendChild(legendItem);
+  });
+}
+
+// Setup frequency date listener
+function setupFrequencyDateListener(vfds) {
+  const dateInput = document.getElementById('frequencyHistoryDate');
+  const updateButton = document.getElementById('updateFrequencyHistory');
+  
+  if (!dateInput || !updateButton) return;
+  
+  // Set default date to today
+  dateInput.value = new Date().toISOString().split('T')[0];
+  
+  updateButton.addEventListener('click', () => {
+    createFrequencyHistoryChart(vfds, dateInput.value);
+  });
+}
+
+// Update the showVFDDetails function to initialize charts
+function showVFDDetails(device) {
+  const modal = document.getElementById("vfdModal");
+  const vfdData = generateVFDData(device.equipment_id);
+  
+  // Update existing details (your existing code)
+  document.getElementById("modal-equipment-id").textContent = device.equipment_id;
+  document.getElementById("modal-vfd-model").textContent = device.vfd_brand_model;
+  document.getElementById("modal-equipment-name").textContent = device.equipment_name;
+  document.getElementById("modal-equipment-details").textContent = device.equipment_details;
+  document.getElementById("modal-power-rating").textContent = device.power_rating;
+  document.getElementById("modal-voltage").textContent = device.voltage;
+
+  // Update live data card
+  document.getElementById("modal-output-freq").textContent = vfdData.outputFrequency + " Hz";
+  document.getElementById("modal-ref-freq").textContent = vfdData.referenceFrequency + " Hz";
+  document.getElementById("modal-output-current").textContent = vfdData.outputCurrent + " A";
+  document.getElementById("modal-dc-voltage").textContent = vfdData.dcBusVoltage + " V";
+  document.getElementById("modal-output-torque").textContent = vfdData.outputTorque + " Nm";
+  document.getElementById("modal-output-power").textContent = vfdData.outputPower + " kW";
+
+  // Update status card
+  document.getElementById("modal-running-status").textContent = vfdData.outputFrequency > 0 ? "Running" : "Stopped";
+  document.getElementById("modal-device-status").textContent = "Online";
+  document.getElementById("modal-fault-status").textContent = vfdData.outputCurrent > 0.9 * parseFloat(device.power_rating) ? "Overload" : "Normal";
+
+  // Update status indicator
+  const statusDot = document.getElementById("status-dot");
+  const statusText = document.getElementById("status-text");
+  
+  statusDot.className = "status-dot status-online";
+  statusText.textContent = "Online";
+
+  // Initialize charts
+  initializeVFDCharts(device);
+
+  // Show modal
+  modal.style.display = "flex";
+}
+
     </script>
   </body>
 </html>
